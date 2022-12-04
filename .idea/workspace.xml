@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_1/task4.java" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 1 - task 6 decisions for quadratic equation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_1/task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +54,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task5">
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_1.task1" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task6">
     <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask_1.task2" />
       <module name="Automation_java_nain" />
@@ -119,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_1.task6" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task6" />
         <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,13 +160,30 @@
       <option name="project" value="LOCAL" />
       <updated>1670180337030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 1 - task 4 define a number closer to 10">
+      <created>1670180566864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670180566864</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework 1 - task 5 schedule for a week">
+      <created>1670180724119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670180724119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 1 - task 1 sum of numbers up to n" />
     <MESSAGE value="Homework 1 - task 2 count numbers, sum and average" />
     <MESSAGE value="Homework 1 - task 3 numbers from 35 to 87, which have residue 1,2 or 5 div by 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 - task 3 numbers from 35 to 87, which have residue 1,2 or 5 div by 7" />
+    <MESSAGE value="Homework 1 - task 4 define a number closer to 10" />
+    <MESSAGE value="Homework 1 - task 5 schedule for a week" />
+    <MESSAGE value="Homework 1 - task 6 decisions for quadratic equation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 - task 6 decisions for quadratic equation" />
   </component>
 </project>
