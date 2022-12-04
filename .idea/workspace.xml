@@ -53,7 +53,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task4">
+  <component name="RunManager" selected="Application.task5">
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask_1.task1" />
       <module name="Automation_java_nain" />
@@ -106,8 +106,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_1.task5" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
