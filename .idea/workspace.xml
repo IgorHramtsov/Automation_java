@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 1 - task 6 decisions for quadratic equation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_1/task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_1/task8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +53,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task7">
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_1.task3" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task8">
     <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask_1.task4" />
       <module name="Automation_java_nain" />
@@ -120,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_1.task8" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task8" />
         <item itemvalue="Application.task7" />
         <item itemvalue="Application.task6" />
         <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
-        <item itemvalue="Application.task3" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670180724119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Homework 1 - task 6 decisions for quadratic equation">
+      <created>1670181061008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670181061008</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework 1 - task 7 calculating area and length">
+      <created>1670181294440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670181294440</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +197,7 @@
     <MESSAGE value="Homework 1 - task 4 define a number closer to 10" />
     <MESSAGE value="Homework 1 - task 5 schedule for a week" />
     <MESSAGE value="Homework 1 - task 6 decisions for quadratic equation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 - task 6 decisions for quadratic equation" />
+    <MESSAGE value="Homework 1 - task 7 calculating area and length" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 - task 7 calculating area and length" />
   </component>
 </project>
