@@ -1,4 +1,4 @@
-package hometask_2;
+package hometask_2.Task1;
 
 public class Rectangle {
 
@@ -15,9 +15,9 @@ public class Rectangle {
         this.width = 6.7;
     }
 
-    public void perimetr() {
-        double perimetr = 2*length + 2*width;
-        System.out.println("The perimetr of rectangle = " + perimetr);
+    public void perimeter() {
+        double perimeter = 2*length + 2*width;
+        System.out.println("The perimetr of rectangle = " + perimeter);
     }
 
     public void area() {
@@ -25,4 +25,3 @@ public class Rectangle {
         System.out.println("The area of rectangle = " + area);
     }
 }
-
