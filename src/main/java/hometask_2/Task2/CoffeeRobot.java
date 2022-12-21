@@ -1,4 +1,4 @@
-package hometask_2;
+package hometask_2.Task2;
 
 public class CoffeeRobot extends Robot {
     @Override

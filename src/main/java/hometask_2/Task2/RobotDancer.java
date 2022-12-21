@@ -1,6 +1,6 @@
-package hometask_2;
+package hometask_2.Task2;
 
-public class RobotDancer extends Robot{
+public class RobotDancer extends Robot {
 
     @Override
     public void work() {

@@ -1,6 +1,6 @@
-package hometask_2;
+package hometask_2.Task2;
 
-public class MainRobots {
+public class Main {
 
     public static void main(String[] args) {
         Robot robot = new Robot();
