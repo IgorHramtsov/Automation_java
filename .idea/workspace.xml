@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 2 - Task 2 Robots are working">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/CoffeeRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/RobotCooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/RobotDancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Lily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/MathRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Tulip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/CoffeeRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/MainRobots.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/RobotCooker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/RobotDancer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/hometask_1" />
+        <entry key="$PROJECT_DIR$" value="feature/hometask_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +60,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hometask_2.Task2.Main">
+  <component name="RunManager" selected="Application.hometask_3.task_1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask_2.Main" />
       <module name="Automation_java_nain" />
@@ -120,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_1.task6" />
+    <configuration name="hometask_3.task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_3.task_1.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_1.*" />
+          <option name="PATTERN" value="hometask_3.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hometask_3.task_1.Main" />
         <item itemvalue="Application.hometask_2.Task2.Main" />
         <item itemvalue="Application.hometask_2.Task1.Main" />
         <item itemvalue="Application.MainRobots" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.task6" />
       </list>
     </recent_temporary>
   </component>
