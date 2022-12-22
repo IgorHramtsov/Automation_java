@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 2 - Task 2 Robots are working">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Lily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/MathRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Tulip.java" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/dz3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_3/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Tulip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_1/Tulip.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670862562425</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework 3 - Task 1 Flowers">
+      <created>1671743969926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671743969926</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,6 +232,7 @@
     <MESSAGE value="Homework 1 - task 8 define odd or even number" />
     <MESSAGE value="Homework 2 - Perimetr and Area of Rectangle" />
     <MESSAGE value="Homework 2 - Task 2 Robots are working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Task 2 Robots are working" />
+    <MESSAGE value="Homework 3 - Task 1 Flowers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - Task 1 Flowers" />
   </component>
 </project>

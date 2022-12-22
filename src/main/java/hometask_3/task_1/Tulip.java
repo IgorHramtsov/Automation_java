@@ -15,6 +15,6 @@ public class Tulip extends Flower{
 
     @Override
     public void getAllInfo() {
-        System.out.println(super.toString());;
+        System.out.println(super.toString());
     }
 }
