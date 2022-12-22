@@ -1,3 +1,0 @@
-package hometask_3;
-
-
