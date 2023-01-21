@@ -4,22 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 2 - Task 2 Robots are working">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/CoffeeRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/RobotCooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_2/Task2/RobotDancer.java" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/SteeringWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/hometask2_task3/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_2/EmployeeFixedSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_2/EmployeeSalaryPerHour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_2/MathRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_2/service/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/first/Numerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/second/MyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/service/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/service/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/service/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/service/Plus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/CoffeeRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/MainRobots.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/RobotCooker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_2/RobotDancer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_3/Flower.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/hometask_1" />
+        <entry key="$PROJECT_DIR$" value="feature/hometask_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,39 +73,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hometask_2.Task2.Main">
+  <component name="RunManager" selected="Application.hometask_3.hometask2_task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="hometask_3.task_3.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainRobots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_2.MainRobots" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hometask_2.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_2.Task1.Main" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_2.Task1.*" />
+          <option name="PATTERN" value="hometask_3.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_1.task6" />
+    <configuration name="hometask_3.hometask2_task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_3.hometask2_task3.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_1.*" />
+          <option name="PATTERN" value="hometask_3.hometask2_task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hometask_3.task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_3.task_1.Main" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_3.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hometask_3.task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_3.task_2.Main" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_3.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hometask_2.Task2.Main" />
-        <item itemvalue="Application.hometask_2.Task1.Main" />
-        <item itemvalue="Application.MainRobots" />
+        <item itemvalue="Application.hometask_3.hometask2_task3.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.task6" />
+        <item itemvalue="Application.hometask_3.task_2.Main" />
+        <item itemvalue="Application.hometask_3.task_1.Main" />
+        <item itemvalue="Application.hometask_2.Task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670862562425</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework 3 - Task 1 Flowers">
+      <created>1671743969926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671743969926</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Homework 3 - Task 1 Flowers">
+      <created>1671744963755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671744963755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +256,7 @@
     <MESSAGE value="Homework 1 - task 8 define odd or even number" />
     <MESSAGE value="Homework 2 - Perimetr and Area of Rectangle" />
     <MESSAGE value="Homework 2 - Task 2 Robots are working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Task 2 Robots are working" />
+    <MESSAGE value="Homework 3 - Task 1 Flowers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - Task 1 Flowers" />
   </component>
 </project>
