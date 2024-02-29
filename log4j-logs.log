@@ -64221,4 +64221,130 @@
   2024-02-15 10:51:46 INFO  Main:66 - [Car{model='Toyota', price=7000}, Car{model='Honda', price=5500}, Car{model='BMW', price=13000}, Car{model='Audi', price=11500}, Car{model='Daewoo', price=3500}, Car{model='Mazda', price=4500}]
   2024-02-15 10:51:46 INFO  Main:67 - sorted by name: [Car{model='Audi', price=11500}, Car{model='BMW', price=13000}, Car{model='Daewoo', price=3500}, Car{model='Honda', price=5500}, Car{model='Mazda', price=4500}, Car{model='Toyota', price=7000}]
   2024-02-15 10:51:46 INFO  Main:68 - sorted by price: [Car{model='Daewoo', price=3500}, Car{model='Mazda', price=4500}, Car{model='Honda', price=5500}, Car{model='Toyota', price=7000}, Car{model='Audi', price=11500}, Car{model='BMW', price=13000}]
+  2024-02-16 10:16:22 INFO  Main:22 - {345=sdfgsdfg, 654=sdfsdfaghhhh, 544=rreettaa, null=qqwweer}
+  2024-02-16 10:20:20 INFO  Main:22 - {544=rreettaa, null=qqwweer, 345=sdfgsdfg, 654=sdfsdfaghhhh}
+  2024-02-18 07:04:55 INFO  Main:24 - {544=rreettaa, null=qqwweer, 345=sdfgsdfg, 654=sdfsdfaghhhh}
+  2024-02-18 07:05:10 INFO  Main:22 - sdfgsdfg
+  2024-02-18 07:05:10 INFO  Main:24 - {544=rreettaa, null=qqwweer, 345=sdfgsdfg, 654=sdfsdfaghhhh}
+  2024-02-18 07:05:44 INFO  Main:22 - sdfgsdfg
+  2024-02-18 07:05:44 INFO  Main:26 - {null=qqwweer, 345=sdfgsdfg, 654=sdfsdfaghhhh}
+  2024-02-18 07:06:44 INFO  Main:22 - sdfgsdfg
+  2024-02-18 07:06:44 INFO  Main:28 - 3
+  2024-02-18 07:06:44 INFO  Main:30 - {null=qqwweer, 345=sdfgsdfg, 654=sdfsdfaghhhh}
+  2024-02-18 07:14:30 INFO  Main:24 - sdfgsdfg
+  2024-02-18 07:14:30 INFO  Main:28 - 5
+  2024-02-18 07:14:30 INFO  Main:30 - true
+  2024-02-18 07:14:30 INFO  Main:31 - true
+  2024-02-18 07:14:30 INFO  Main:33 - {null=qqwweer, 34=xfgdf, 345=sdfgsdfg, 654=sdfsdfaghhhh, 974=sdfsdf}
+  2024-02-18 07:14:52 INFO  Main:24 - sdfgsdfg
+  2024-02-18 07:14:52 INFO  Main:28 - 5
+  2024-02-18 07:14:52 INFO  Main:30 - true
+  2024-02-18 07:14:52 INFO  Main:31 - true
+  2024-02-18 07:14:52 INFO  Main:32 - false
+  2024-02-18 07:14:52 INFO  Main:34 - {null=qqwweer, 34=xfgdf, 345=sdfgsdfg, 654=sdfsdfaghhhh, 974=sdfsdf}
+  2024-02-18 07:19:11 INFO  test:33 - sdfgsdfg
+  2024-02-18 07:19:11 INFO  test:37 - 5
+  2024-02-18 07:19:11 INFO  test:39 - true
+  2024-02-18 07:19:11 INFO  test:40 - true
+  2024-02-18 07:19:11 INFO  test:41 - false
+  2024-02-18 07:19:11 INFO  test:43 - {null=qqwweer, 34=8dvsdfvd, 345=sdfgsdfg, 654=sdfsdfaghhhh, 974=sdfsdf}
+  2024-02-18 07:19:11 INFO  test:44 - {345=sdfgsdfg, 654=sdfsdfaghhhh, 544=rreettaa, null=qqwweer, 34=kkffsa, 974=sdfsdf}
+  2024-02-19 09:40:02 INFO  Main:29 - HashMap: {hometask_8.task1.Person@c45d3d4=hometask_8.task1.Account@b57da78a, hometask_8.task1.Person@d12ae398=hometask_8.task1.Account@22ff780b, hometask_8.task1.Person@b4c1e6c2=hometask_8.task1.Account@bae67930}
+  2024-02-19 09:40:02 INFO  Main:30 - LinkedHashMap: {hometask_8.task1.Person@432dc591=hometask_8.task1.Account@311f894d, hometask_8.task1.Person@ef629f06=hometask_8.task1.Account@fcc83ccb, hometask_8.task1.Person@118665c4=hometask_8.task1.Account@f69c43c4}
+  2024-02-19 09:40:53 INFO  Main:29 - HashMap: {Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}}
+  2024-02-19 09:40:53 INFO  Main:30 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}}
+  2024-02-19 14:36:04 INFO  Main:35 - HashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, null=Account{account='fdssdfjjasd@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}}
+  2024-02-19 14:36:04 INFO  Main:36 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}}
+  2024-02-19 14:36:55 INFO  Main:35 - HashMap: {null=Account{account='fdssdfjjasd@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}}
+  2024-02-19 14:36:55 INFO  Main:36 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}}
+  2024-02-19 14:37:48 INFO  Main:35 - HashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}}
+  2024-02-19 14:37:48 INFO  Main:36 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, null=Account{account='fdssdfjjasd@gmail.com'}}
+  2024-02-19 14:38:15 INFO  Main:35 - HashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}}
+  2024-02-19 14:38:15 INFO  Main:36 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, null=Account{account='fdssdfjjasd@gmail.com'}}
+  2024-02-19 14:38:24 INFO  test:33 - sdfgsdfg
+  2024-02-19 14:38:24 INFO  test:37 - 5
+  2024-02-19 14:38:24 INFO  test:39 - true
+  2024-02-19 14:38:24 INFO  test:40 - true
+  2024-02-19 14:38:24 INFO  test:41 - false
+  2024-02-19 14:38:24 INFO  test:43 - {null=qqwweer, 34=8dvsdfvd, 345=sdfgsdfg, 654=sdfsdfaghhhh, 974=sdfsdf}
+  2024-02-19 14:38:24 INFO  test:44 - {345=sdfgsdfg, 654=sdfsdfaghhhh, 544=rreettaa, null=qqwweer, 34=kkffsa, 974=sdfsdf}
+  2024-02-19 14:38:50 INFO  test:33 - sdfgsdfg
+  2024-02-19 14:38:50 INFO  test:37 - 5
+  2024-02-19 14:38:50 INFO  test:39 - true
+  2024-02-19 14:38:50 INFO  test:40 - true
+  2024-02-19 14:38:50 INFO  test:41 - false
+  2024-02-19 14:38:50 INFO  test:43 - {null=qqwweer, 34=8dvsdfvd, 345=sdfgsdfg, 654=sdfsdfaghhhh, 974=sdfsdf}
+  2024-02-19 14:38:50 INFO  test:44 - {345=sdfgsdfg, 654=sdfsdfaghhhh, 544=rreettaa, null=qqwweer, 34=kkffsa, 974=sdfsdf}
+  2024-02-19 14:38:52 INFO  Main:35 - HashMap: {Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}}
+  2024-02-19 14:38:52 INFO  Main:36 - LinkedHashMap: {Person{name='vlad', surname='othsjs'}=Account{account='dfsfsda@gmail.com'}, Person{name='oleg', surname='fdsafa'}=Account{account='sfsa@gmail.com'}, Person{name='ivan', surname='jhoaasa'}=Account{account='iuuas@gmail.com'}, null=Account{account='fdssdfjjasd@gmail.com'}}
+  2024-02-20 10:15:19 INFO  Main:36 - HashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}}
+  2024-02-20 10:15:19 INFO  Main:37 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-20 10:18:46 INFO  Main:38 - HashMap: {Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}, Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}}
+  2024-02-20 10:18:46 INFO  Main:39 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-20 10:18:46 INFO  Main:42 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-20 10:18:46 INFO  Main:42 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-20 10:18:46 INFO  Main:42 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-20 10:19:15 INFO  Main:38 - HashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-20 10:19:15 INFO  Main:39 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-20 10:19:15 INFO  Main:42 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-20 10:19:15 INFO  Main:42 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-20 10:19:15 INFO  Main:42 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-20 10:19:15 INFO  Main:46 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-20 10:19:15 INFO  Main:46 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-20 10:19:15 INFO  Main:46 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-20 10:19:46 INFO  Main:40 - HashMap: {Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}}
+  2024-02-20 10:19:46 INFO  Main:41 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-20 10:19:46 INFO  Main:44 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-20 10:19:46 INFO  Main:48 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-20 10:19:46 INFO  Main:48 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-20 10:19:46 INFO  Main:48 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-22 11:50:03 INFO  Main:40 - HashMap: {Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}}
+  2024-02-22 11:50:03 INFO  Main:41 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-22 11:50:03 INFO  Main:44 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-22 11:50:03 INFO  Main:48 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-22 11:50:03 INFO  Main:48 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-22 11:50:03 INFO  Main:48 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-22 12:00:38 INFO  Main:43 - HashMap: {Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}}
+  2024-02-22 12:00:38 INFO  Main:44 - LinkedHashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='oleg', surname='jooaye'}=Account{account='jiioijaauk@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-22 12:00:38 INFO  Main:47 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='jiioijaauk@gmail.com'}
+  2024-02-23 11:34:43 INFO  Main:41 - HashMap: {Person{name='vlad', surname='kijiha'}=Account{account='susiaopjnc@gmail.com'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}, Person{name='oleg', surname='jooaye'}=Account{account='null'}}
+  2024-02-23 11:34:43 INFO  Main:42 - LinkedHashMap: {Person{name='oleg', surname='jooaye'}=Account{account='null'}, Person{name='ivan', surname='jdsklfa'}=Account{account='hsfjlfew@gmai.com'}}
+  2024-02-23 11:34:43 INFO  Main:45 - Person: Person{name='vlad', surname='kijiha'}Account: Account{account='susiaopjnc@gmail.com'}
+  2024-02-23 11:34:43 INFO  Main:45 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-23 11:34:43 INFO  Main:45 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='null'}
+  2024-02-23 11:34:43 INFO  Main:49 - Person: Person{name='oleg', surname='jooaye'}Account: Account{account='null'}
+  2024-02-23 11:34:43 INFO  Main:49 - Person: Person{name='ivan', surname='jdsklfa'}Account: Account{account='hsfjlfew@gmai.com'}
+  2024-02-29 18:20:35 INFO  Main:24 - {Person{name='null'}=[Account{account='null'}, Account{account='null'}, Account{account='null'}]}
+  2024-02-29 18:20:35 INFO  Main:27 - Person: Person{name='null'}Account: [Account{account='null'}, Account{account='null'}, Account{account='null'}]
+  2024-02-29 18:23:25 INFO  Main:24 - {Person{name='null'}=[Account{account='null'}, Account{account='null'}, Account{account='null'}]}
+  2024-02-29 18:23:25 INFO  Main:27 - Person: Person{name='null'}Account: [Account{account='null'}, Account{account='null'}, Account{account='null'}]
+  2024-02-29 18:30:41 INFO  Main:24 - {Person{name='ivan'}=[Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]}
+  2024-02-29 18:30:41 INFO  Main:27 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]
+  2024-02-29 18:33:42 INFO  Main:36 - {Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}], Person{name='ivan'}=[Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]}
+  2024-02-29 18:33:42 INFO  Main:39 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 18:33:42 INFO  Main:39 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]
+  2024-02-29 18:34:26 INFO  Main:38 - {Person{name='ivan'}=[Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}], Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}], Person{name='oleg'}=[Account{account='4151211'}, Account{account='677888'}]}
+  2024-02-29 18:34:26 INFO  Main:41 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]
+  2024-02-29 18:34:26 INFO  Main:41 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 18:34:26 INFO  Main:41 - Person: Person{name='oleg'}Account: [Account{account='4151211'}, Account{account='677888'}]
+  2024-02-29 18:36:15 INFO  Main:46 - {null=[Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}], Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}], Person{name='ivan'}=[Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}], Person{name='oleg'}=[Account{account='4151211'}, Account{account='677888'}]}
+  2024-02-29 18:36:15 INFO  Main:49 - Person: nullAccount: [Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}]
+  2024-02-29 18:36:15 INFO  Main:49 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 18:36:15 INFO  Main:49 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, Account{account='3213'}, Account{account='723423'}]
+  2024-02-29 18:36:15 INFO  Main:49 - Person: Person{name='oleg'}Account: [Account{account='4151211'}, Account{account='677888'}]
+  2024-02-29 18:55:36 INFO  Main:48 - [Account{account='5234523'}, null, Account{account='723423'}]
+  2024-02-29 18:55:36 INFO  Main:50 - {Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}], null=[Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}], Person{name='oleg'}=[Account{account='4151211'}, Account{account='677888'}], Person{name='ivan'}=[Account{account='5234523'}, null, Account{account='723423'}]}
+  2024-02-29 18:55:36 INFO  Main:53 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 18:55:36 INFO  Main:53 - Person: nullAccount: [Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}]
+  2024-02-29 18:55:36 INFO  Main:53 - Person: Person{name='oleg'}Account: [Account{account='4151211'}, Account{account='677888'}]
+  2024-02-29 18:55:36 INFO  Main:53 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, null, Account{account='723423'}]
+  2024-02-29 18:56:51 INFO  Main:50 - {null=[Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}], Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}], Person{name='ivan'}=[Account{account='5234523'}, null, Account{account='723423'}]}
+  2024-02-29 18:56:51 INFO  Main:53 - Person: nullAccount: [Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}]
+  2024-02-29 18:56:51 INFO  Main:53 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 18:56:51 INFO  Main:53 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, null, Account{account='723423'}]
+  2024-02-29 21:28:23 INFO  Main:50 - {null=[Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}], Person{name='ivan'}=[Account{account='5234523'}, null, Account{account='723423'}], Person{name='igor'}=[Account{account='4234'}, Account{account='435262'}]}
+  2024-02-29 21:28:23 INFO  Main:53 - Person: nullAccount: [Account{account='46456745'}, Account{account='23542'}, Account{account='5463456'}, Account{account='23432188'}]
+  2024-02-29 21:28:23 INFO  Main:53 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, null, Account{account='723423'}]
+  2024-02-29 21:28:23 INFO  Main:53 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
+  2024-02-29 21:29:54 INFO  ZooClub:20 - {Person{name='ivan', age=23}=null}
   
