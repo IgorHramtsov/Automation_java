@@ -9,7 +9,7 @@ public class Main {
 
         MyCalculator myCalculator = new MyCalculator(28.3, 15.6);
 
-        System.out.println("Sum of nimbers = " + myCalculator.plus());
+        System.out.println("Sum of numbers = " + myCalculator.plus());
         System.out.println("Difference of numbers = " + myCalculator.minus());
         System.out.println("Product of numbers = " + myCalculator.multiply());
         System.out.println("Division of numbers = " + myCalculator.divide());

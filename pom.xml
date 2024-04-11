@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Automation_java_nain</artifactId>
+    <artifactId>Automation_java_main</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

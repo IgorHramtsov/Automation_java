@@ -32,7 +32,7 @@ public class Main {
                 logger.info("productOfNumbers = " + number1 * number2);
                 logger.info("dividingOfNumbers = " + number1 / number2);
                 logger.info("sumOfNumbers = " + number1 + number2);
-                logger.info("differeceOfNumbers = " + (number1 - number2));  */
+                logger.info("differenceOfNumbers = " + (number1 - number2));  */
 
 
                 logger.info("Enter first number");
