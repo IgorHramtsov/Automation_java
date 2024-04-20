@@ -4,23 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 8">
-      <change afterPath="$PROJECT_DIR$/qodana.sarif.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/DebitAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task1/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task2/MyEntry.java" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 9">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/ByteStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/CharacterStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/practice/readUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task1/FileInputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task2/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_10/task2/SerializerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/Persons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/byteFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/characteFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/characterFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/employee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/readPDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hometask10/users.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_3/task_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_5/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_5/task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometask_7" />
+        <entry key="$PROJECT_DIR$" value="hometask_9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,8 +90,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;hometask__9&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hometask__10&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Work/IdeaProjects/Automation_java/src/main/resources&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -106,17 +114,37 @@
   </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\Work\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="c952d6eb-c350-4470-9e90-cd30d17aba85" reportId="Automation_java/qodana/2024-04-08" />
       <ReportDescription path="C:\Users\Work\IdeaProjects\Automation_java\qodana.sarif.json" reportGuid="c952d6eb-c350-4470-9e90-cd30d17aba85" reportId="Automation_java/qodana/2024-04-08" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.hometask_9.task2.Main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hometask_10.task2.Main">
+    <configuration name="ByteStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_10.practice.ByteStreams" />
+      <module name="Automation_java_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_10.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_9.task1.Main" />
+      <option name="MAIN_CLASS_NAME" value="hometask_10.task1.Main" />
       <module name="Automation_java_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_9.task1.*" />
+          <option name="PATTERN" value="hometask_10.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_9.SimpleNumbers" />
+    <configuration name="Serializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_10.practice.Serializer" />
       <module name="Automation_java_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_9.*" />
+          <option name="PATTERN" value="hometask_10.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Users" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_9.Users" />
+    <configuration name="hometask_10.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_10.task2.Main" />
       <module name="Automation_java_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_9.*" />
+          <option name="PATTERN" value="hometask_10.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,25 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hometask_9.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_9.task2.Main" />
+    <configuration name="readUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_10.practice.readUsers" />
       <module name="Automation_java_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_9.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hometask_9.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_9.test" />
-      <module name="Automation_java_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_9.*" />
+          <option name="PATTERN" value="hometask_10.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hometask_9.task2.Main" />
-        <item itemvalue="Application.SimpleNumbers" />
+        <item itemvalue="Application.hometask_10.task2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Users" />
-        <item itemvalue="Application.hometask_9.test" />
+        <item itemvalue="Application.readUsers" />
+        <item itemvalue="Application.Serializer" />
+        <item itemvalue="Application.ByteStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709235718828</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Homework 9">
+      <option name="closed" value="true" />
+      <created>1712864235804</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712864235804</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +379,7 @@
     <MESSAGE value="Homework 5" />
     <MESSAGE value="Homework 6" />
     <MESSAGE value="Homework 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 8" />
+    <MESSAGE value="Homework 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 9" />
   </component>
 </project>

@@ -64534,3 +64534,18 @@
 2024-04-11 03:57:58 INFO  Main:24 - enter a value
 2024-04-11 03:58:00 INFO  Main:34 - {3424=dfdfg, 534=fdghd, 46=dfgdf, 436=fghfg, 3945=ddfs, 0=kjh}
 2024-04-11 21:39:10 INFO  Main:26 - {MyEntry{key=3, value=lpl}=MyEntry{key=4, value=sdf}}
+2024-04-19 23:07:36 INFO  Main:11 - asdfasdf
+2024-04-19 23:07:47 INFO  Main:11 - 232
+2024-04-19 23:34:01 INFO  Main:11 - 232
+2024-04-20 16:40:59 INFO  Main:16 - Employee{name='Igor', id=4355, salary=33500.2}
+2024-04-20 16:43:23 INFO  Main:16 - Employee{name='Igor', id=4355, salary=33500.2}
+2024-04-20 20:34:44 INFO  Main:16 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 00:17:20 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 00:19:25 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 00:19:25 INFO  Main:33 - employeeList below:
+2024-04-21 00:26:54 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 00:26:54 INFO  Main:33 - employeeList below:
+2024-04-21 00:26:54 INFO  Main:34 - [Employee{name='Igor', id=4355, salary=33500.2}, Employee{name='Ivan', id=785, salary=95300.32}, Employee{name='Oleg', id=325, salary=234250.0}, Employee{name='Anton', id=1290, salary=44700.8}]
+2024-04-21 00:34:49 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 00:34:49 INFO  Main:33 - employeeList below:
+2024-04-21 00:34:49 INFO  Main:34 - [Employee{name='Igor', id=4355, salary=33500.2}, Employee{name='Ivan', id=785, salary=95300.32}, Employee{name='Oleg', id=325, salary=234250.0}, Employee{name='Anton', id=1290, salary=44700.8}]
