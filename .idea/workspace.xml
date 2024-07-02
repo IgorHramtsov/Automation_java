@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task1/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task1/PurchaseAmountComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task2/CarPriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_7/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/task3/ZooClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_8/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ZooClub">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask_7.task2.Main" />
       <module name="Automation_java_nain" />
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hometask_6.task1.ArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_6.task1.ArrayList.Main" />
+    <configuration name="ZooClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_8.task3.ZooClub" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_6.task1.ArrayList.*" />
+          <option name="PATTERN" value="hometask_8.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hometask_6.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_6.task3.Main" />
+    <configuration name="hometask_8.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_8.task1.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_6.task3.*" />
+          <option name="PATTERN" value="hometask_8.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hometask_7.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_7.task1.Main" />
+    <configuration name="hometask_8.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_8.task2.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_7.task1.*" />
+          <option name="PATTERN" value="hometask_8.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_1.task1" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_8.test" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_1.*" />
+          <option name="PATTERN" value="hometask_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooClub" />
+        <item itemvalue="Application.hometask_8.task2.Main" />
+        <item itemvalue="Application.hometask_8.task1.Main" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.hometask_7.task1.Main" />
-        <item itemvalue="Application.hometask_6.task1.ArrayList.Main" />
-        <item itemvalue="Application.hometask_6.task3.Main" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699491727287</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework 6">
+      <option name="closed" value="true" />
+      <created>1707987150961</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707987150961</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Homework 6">
+      <option name="closed" value="true" />
+      <created>1707987166652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707987166652</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
