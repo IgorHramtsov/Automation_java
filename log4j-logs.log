@@ -64347,4 +64347,190 @@
   2024-02-29 21:28:23 INFO  Main:53 - Person: Person{name='ivan'}Account: [Account{account='5234523'}, null, Account{account='723423'}]
   2024-02-29 21:28:23 INFO  Main:53 - Person: Person{name='igor'}Account: [Account{account='4234'}, Account{account='435262'}]
   2024-02-29 21:29:54 INFO  ZooClub:20 - {Person{name='ivan', age=23}=null}
-  
+  2024-04-09 02:08:08 INFO  Main:44 - []
+2024-04-09 02:09:05 INFO  Main:42 - []
+2024-04-10 13:57:26 INFO  Main:55 - All users sorted by name: [hometask_9.task1.User@7ed3d135, hometask_9.task1.User@688f3974, hometask_9.task1.User@5c149dbc, hometask_9.task1.User@8017ac3d]
+2024-04-10 13:57:26 INFO  Main:61 - All accounts: [hometask_9.task1.CreditAccount@ec1a5073, hometask_9.task1.CreditAccount@8c2d611, hometask_9.task1.CreditAccount@fa7e2a04, hometask_9.task1.CreditAccount@57f04691, hometask_9.task1.DebitAccount@7bf27176, hometask_9.task1.DebitAccount@5316cf0f, hometask_9.task1.DebitAccount@e8fdef2d, hometask_9.task1.DebitAccount@dc350bfc]
+2024-04-10 13:57:26 INFO  Main:72 - Tax amount for user Ivan: 9630.0
+2024-04-10 13:58:11 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 13:58:11 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 13:58:11 INFO  Main:72 - Tax amount for user Ivan: 9630.0
+2024-04-10 14:04:17 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:04:17 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:04:17 INFO  Main:70 - 20000.0
+2024-04-10 14:04:17 INFO  Main:70 - 45000.0
+2024-04-10 14:04:17 INFO  Main:70 - 85000.0
+2024-04-10 14:04:17 INFO  Main:70 - 114000.0
+2024-04-10 14:04:17 INFO  Main:70 - 133900.0
+2024-04-10 14:04:17 INFO  Main:70 - 145100.0
+2024-04-10 14:04:17 INFO  Main:70 - 160600.0
+2024-04-10 14:04:17 INFO  Main:70 - 192600.0
+2024-04-10 14:04:17 INFO  Main:73 - Tax amount for user Ivan: 9630.0
+2024-04-10 14:06:12 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:06:12 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:06:12 INFO  Main:71 - Tax amount for user Ivan: 1000.0
+2024-04-10 14:08:33 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:08:33 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:08:33 INFO  Main:71 - 20000.0
+2024-04-10 14:08:33 INFO  Main:71 - 45000.0
+2024-04-10 14:08:33 INFO  Main:71 - 85000.0
+2024-04-10 14:08:33 INFO  Main:71 - 114000.0
+2024-04-10 14:08:33 INFO  Main:71 - 133900.0
+2024-04-10 14:08:33 INFO  Main:71 - 145100.0
+2024-04-10 14:08:33 INFO  Main:71 - 160600.0
+2024-04-10 14:08:33 INFO  Main:71 - 192600.0
+2024-04-10 14:08:33 INFO  Main:74 - Tax amount for user Ivan: 9630.0
+2024-04-10 14:25:47 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:25:47 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:25:47 INFO  Main:71 - 1000.0
+2024-04-10 14:25:47 INFO  Main:71 - 1250.0
+2024-04-10 14:25:47 INFO  Main:71 - 2000.0
+2024-04-10 14:25:47 INFO  Main:71 - 1450.0
+2024-04-10 14:25:47 INFO  Main:71 - 995.0
+2024-04-10 14:25:47 INFO  Main:71 - 560.0
+2024-04-10 14:25:47 INFO  Main:71 - 775.0
+2024-04-10 14:25:47 INFO  Main:71 - 1600.0
+2024-04-10 14:25:47 INFO  Main:74 - Tax amount for user Ivan: 1600.0
+2024-04-10 14:26:02 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:26:02 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:26:02 INFO  Main:71 - 1000.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 1000.0
+2024-04-10 14:26:02 INFO  Main:71 - 1250.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 1250.0
+2024-04-10 14:26:02 INFO  Main:71 - 2000.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 2000.0
+2024-04-10 14:26:02 INFO  Main:71 - 1450.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 1450.0
+2024-04-10 14:26:02 INFO  Main:71 - 995.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 995.0
+2024-04-10 14:26:02 INFO  Main:71 - 560.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 560.0
+2024-04-10 14:26:02 INFO  Main:71 - 775.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 775.0
+2024-04-10 14:26:02 INFO  Main:71 - 1600.0
+2024-04-10 14:26:02 INFO  Main:72 - Tax amount for user Ivan: 1600.0
+2024-04-10 14:26:02 INFO  Main:75 - Tax amount for user Ivan: 1600.0
+2024-04-10 14:31:04 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:31:04 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:31:04 INFO  Main:71 - 1000.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 1000.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 1250.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 1250.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 2000.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 2000.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 1450.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 1450.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 995.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 995.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 560.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 560.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 775.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 775.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:71 - 1600.0
+2024-04-10 14:31:04 INFO  Main:72 - Tax amount for user Ivan: 1600.0
+2024-04-10 14:31:04 INFO  Main:73 - Ivan
+2024-04-10 14:31:04 INFO  Main:76 - Tax amount for user Ivan: 1600.0
+2024-04-10 14:34:35 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:34:35 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 342: 1000.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 134: 1250.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 23: 2000.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 29: 1450.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 12fh: 995.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 08uj: 560.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 7pl: 775.0
+2024-04-10 14:34:35 INFO  Main:71 - Tax amount for user Ivan for account 18ih: 1600.0
+2024-04-10 14:34:35 INFO  Main:73 - Total tax amount for user Ivan: 9630.0
+2024-04-10 14:35:19 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:35:19 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:35:19 INFO  Main:71 -  for account 342: 1000.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 134: 1250.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 23: 2000.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 29: 1450.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 12fh: 995.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 08uj: 560.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 7pl: 775.0
+2024-04-10 14:35:19 INFO  Main:71 -  for account 18ih: 1600.0
+2024-04-10 14:35:19 INFO  Main:73 - Total tax amount for user Ivan: 9630.0
+2024-04-10 14:35:55 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-10 14:35:55 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-10 14:35:55 INFO  Main:71 -  for account 342: tax amount = 1000.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 134: tax amount = 1250.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 23: tax amount = 2000.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 29: tax amount = 1450.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 12fh: tax amount = 995.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 08uj: tax amount = 560.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 7pl: tax amount = 775.0
+2024-04-10 14:35:55 INFO  Main:71 -  for account 18ih: tax amount = 1600.0
+2024-04-11 03:39:06 INFO  Main:55 - All users sorted by name: [User{userName='Alex'}, User{userName='Anton'}, User{userName='Igor'}, User{userName='Ivan'}]
+2024-04-11 03:39:06 INFO  Main:61 - All accounts: [Account{id=342, sum=20000.0}, Account{id=134, sum=25000.0}, Account{id=23, sum=40000.0}, Account{id=29, sum=29000.0}, Account{id=12fh, sum=19900.0}, Account{id=08uj, sum=11200.0}, Account{id=7pl, sum=15500.0}, Account{id=18ih, sum=32000.0}]
+2024-04-11 03:39:06 INFO  Main:71 -  for account 342: tax amount = 1000.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 134: tax amount = 1250.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 23: tax amount = 2000.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 29: tax amount = 1450.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 12fh: tax amount = 995.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 08uj: tax amount = 560.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 7pl: tax amount = 775.0
+2024-04-11 03:39:06 INFO  Main:71 -  for account 18ih: tax amount = 1600.0
+2024-04-11 03:39:15 INFO  Main:36 - [ffff]
+2024-04-11 03:39:15 INFO  Main:36 - [ffff]
+2024-04-11 03:39:15 INFO  Main:36 - [ffff]
+2024-04-11 03:39:15 INFO  Main:36 - [ffff]
+2024-04-11 03:39:15 INFO  Main:40 - {37=uka, 87=iedp, 10=ffff, 26=joa}
+2024-04-11 03:54:44 INFO  Main:20 - enter a key
+2024-04-11 03:54:47 INFO  Main:23 - enter a value
+2024-04-11 03:54:47 INFO  Main:20 - enter a key
+2024-04-11 03:55:18 INFO  Main:20 - enter a key
+2024-04-11 03:55:20 INFO  Main:24 - enter a value
+2024-04-11 03:55:25 INFO  Main:20 - enter a key
+2024-04-11 03:55:39 INFO  Main:20 - enter a key
+2024-04-11 03:55:41 INFO  Main:24 - enter a value
+2024-04-11 03:55:43 INFO  Main:20 - enter a key
+2024-04-11 03:55:45 INFO  Main:24 - enter a value
+2024-04-11 03:55:46 INFO  Main:20 - enter a key
+2024-04-11 03:55:48 INFO  Main:24 - enter a value
+2024-04-11 03:55:49 INFO  Main:20 - enter a key
+2024-04-11 03:55:50 INFO  Main:24 - enter a value
+2024-04-11 03:55:52 INFO  Main:20 - enter a key
+2024-04-11 03:55:53 INFO  Main:24 - enter a value
+2024-04-11 03:55:55 INFO  Main:20 - enter a key
+2024-04-11 03:55:57 INFO  Main:24 - enter a value
+2024-04-11 03:55:58 INFO  Main:20 - enter a key
+2024-04-11 03:55:59 INFO  Main:24 - enter a value
+2024-04-11 03:56:04 INFO  Main:34 - {90=uas, 34=da, 523=resg, 37=kdsp, 98=jkl, 374=dkf, 0=dfs}
+2024-04-11 03:57:09 INFO  Main:20 - enter a key
+2024-04-11 03:57:12 INFO  Main:24 - enter a value
+2024-04-11 03:57:13 INFO  Main:20 - enter a key
+2024-04-11 03:57:14 INFO  Main:24 - enter a value
+2024-04-11 03:57:15 INFO  Main:20 - enter a key
+2024-04-11 03:57:16 INFO  Main:24 - enter a value
+2024-04-11 03:57:16 INFO  Main:20 - enter a key
+2024-04-11 03:57:17 INFO  Main:24 - enter a value
+2024-04-11 03:57:18 INFO  Main:20 - enter a key
+2024-04-11 03:57:18 INFO  Main:24 - enter a value
+2024-04-11 03:57:19 INFO  Main:20 - enter a key
+2024-04-11 03:57:20 INFO  Main:24 - enter a value
+2024-04-11 03:57:20 INFO  Main:20 - enter a key
+2024-04-11 03:57:21 INFO  Main:24 - enter a value
+2024-04-11 03:57:27 INFO  Main:38 - {345345=gdfgdf, 46=fgh, 625=fghdf, 345=fjh, 876=fgjh, 45=ghjf, 0=kas}
+2024-04-11 03:57:46 INFO  Main:20 - enter a key
+2024-04-11 03:57:49 INFO  Main:24 - enter a value
+2024-04-11 03:57:49 INFO  Main:20 - enter a key
+2024-04-11 03:57:50 INFO  Main:24 - enter a value
+2024-04-11 03:57:51 INFO  Main:20 - enter a key
+2024-04-11 03:57:52 INFO  Main:24 - enter a value
+2024-04-11 03:57:52 INFO  Main:20 - enter a key
+2024-04-11 03:57:53 INFO  Main:24 - enter a value
+2024-04-11 03:57:54 INFO  Main:20 - enter a key
+2024-04-11 03:57:55 INFO  Main:24 - enter a value
+2024-04-11 03:57:56 INFO  Main:20 - enter a key
+2024-04-11 03:57:58 INFO  Main:24 - enter a value
+2024-04-11 03:58:00 INFO  Main:34 - {3424=dfdfg, 534=fdghd, 46=dfgdf, 436=fghfg, 3945=ddfs, 0=kjh}
+2024-04-11 21:39:10 INFO  Main:26 - {MyEntry{key=3, value=lpl}=MyEntry{key=4, value=sdf}}
