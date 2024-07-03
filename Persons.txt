@@ -1,0 +1,4 @@
+Person{name='Ivan', surname='Horin', age=25}
+Person{name='Olena', surname='Kunec', age=45}
+Person{name='Andrew', surname='Jones', age=34}
+Person{name='Kira', surname='Fi', age=12}

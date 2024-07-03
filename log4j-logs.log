@@ -64889,3 +64889,126 @@ annotation name: Height field
 2024-06-10 02:58:56 INFO  Main:84 - person with new name and age: Person{name='Anton', age=35, height=176, surname='asdfasdf'}
 2024-06-10 02:59:01 INFO  Main:17 - [I@bb4aadf8
 2024-06-10 02:59:19 INFO  Main:18 - [5, 3, 23]
+2024-06-10 14:04:36 INFO  Main:23 - [Anna, Oleg, Ivan, Igor, Lera]
+2024-06-10 14:04:36 INFO  Main:24 - [Annaa, Olega, Ivana, Igora, Leraa]
+2024-06-10 14:07:34 INFO  Main:27 - Anna
+2024-06-10 14:07:34 INFO  Main:27 - Oleg
+2024-06-10 14:07:34 INFO  Main:27 - Ivan
+2024-06-10 14:07:34 INFO  Main:27 - Igor
+2024-06-10 14:07:34 INFO  Main:27 - Lera
+2024-06-10 14:07:47 INFO  Main:27 - anna
+2024-06-10 14:07:47 INFO  Main:27 - oleg
+2024-06-10 14:07:47 INFO  Main:27 - ivan
+2024-06-10 14:07:47 INFO  Main:27 - igor
+2024-06-10 14:07:47 INFO  Main:27 - lera
+2024-06-10 14:15:38 INFO  Main:27 - anna
+2024-06-10 14:15:38 INFO  Main:27 - oleg
+2024-06-10 14:15:38 INFO  Main:27 - ivan
+2024-06-10 14:15:38 INFO  Main:27 - igor
+2024-06-10 14:15:38 INFO  Main:27 - lera
+2024-06-10 14:15:38 INFO  Main:34 - 7
+2024-06-10 14:15:38 INFO  Main:34 - 6
+2024-06-10 14:15:38 INFO  Main:34 - 15
+2024-06-10 14:15:38 INFO  Main:34 - 513
+2024-06-10 14:15:38 INFO  Main:34 - 92
+2024-06-10 14:15:38 INFO  Main:34 - 141
+2024-06-10 19:31:48 INFO  Main:30 - anna
+2024-06-10 19:31:48 INFO  Main:30 - oleg
+2024-06-10 19:31:48 INFO  Main:30 - ivan
+2024-06-10 19:31:48 INFO  Main:30 - igor
+2024-06-10 19:31:48 INFO  Main:30 - lera
+2024-06-10 19:31:48 INFO  Main:37 - 7
+2024-06-10 19:31:48 INFO  Main:37 - 6
+2024-06-10 19:31:48 INFO  Main:37 - 15
+2024-06-10 19:31:48 INFO  Main:37 - 513
+2024-06-10 19:31:48 INFO  Main:37 - 92
+2024-06-10 19:31:48 INFO  Main:37 - 141
+2024-06-10 19:32:37 INFO  Main:30 - anna
+2024-06-10 19:32:37 INFO  Main:30 - oleg
+2024-06-10 19:32:37 INFO  Main:30 - ivan
+2024-06-10 19:32:37 INFO  Main:30 - igor
+2024-06-10 19:32:37 INFO  Main:30 - lera
+2024-06-10 19:32:37 INFO  Main:37 - 7
+2024-06-10 19:32:37 INFO  Main:37 - 6
+2024-06-10 19:32:37 INFO  Main:37 - 15
+2024-06-10 19:32:37 INFO  Main:37 - 513
+2024-06-10 19:32:37 INFO  Main:37 - 92
+2024-06-10 19:32:37 INFO  Main:37 - 141
+2024-06-10 19:32:37 INFO  Main:49 - name:
+2024-06-10 19:32:40 INFO  Main:51 - age:
+2024-06-10 19:32:42 INFO  Main:57 - [Person{name='asdf', age=43, timestamp=null}]
+2024-06-10 19:32:42 INFO  Main:49 - name:
+2024-06-10 19:32:42 INFO  Main:51 - age:
+2024-06-10 19:32:53 INFO  Main:30 - anna
+2024-06-10 19:32:53 INFO  Main:30 - oleg
+2024-06-10 19:32:53 INFO  Main:30 - ivan
+2024-06-10 19:32:53 INFO  Main:30 - igor
+2024-06-10 19:32:53 INFO  Main:30 - lera
+2024-06-10 19:32:53 INFO  Main:37 - 7
+2024-06-10 19:32:53 INFO  Main:37 - 6
+2024-06-10 19:32:53 INFO  Main:37 - 15
+2024-06-10 19:32:53 INFO  Main:37 - 513
+2024-06-10 19:32:53 INFO  Main:37 - 92
+2024-06-10 19:32:53 INFO  Main:37 - 141
+2024-06-10 19:32:53 INFO  Main:49 - name:
+2024-06-10 19:33:14 INFO  Main:30 - anna
+2024-06-10 19:33:14 INFO  Main:30 - oleg
+2024-06-10 19:33:14 INFO  Main:30 - ivan
+2024-06-10 19:33:14 INFO  Main:30 - igor
+2024-06-10 19:33:14 INFO  Main:30 - lera
+2024-06-10 19:33:14 INFO  Main:37 - 7
+2024-06-10 19:33:14 INFO  Main:37 - 6
+2024-06-10 19:33:14 INFO  Main:37 - 15
+2024-06-10 19:33:14 INFO  Main:37 - 513
+2024-06-10 19:33:14 INFO  Main:37 - 92
+2024-06-10 19:33:14 INFO  Main:37 - 141
+2024-06-10 19:33:14 INFO  Main:49 - name:
+2024-06-10 19:33:16 INFO  Main:51 - age:
+2024-06-10 19:33:17 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}]
+2024-06-10 19:33:17 INFO  Main:49 - name:
+2024-06-10 19:33:18 INFO  Main:51 - age:
+2024-06-10 19:33:19 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}]
+2024-06-10 19:33:19 INFO  Main:49 - name:
+2024-06-10 19:33:22 INFO  Main:51 - age:
+2024-06-10 19:33:23 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}]
+2024-06-10 19:33:23 INFO  Main:49 - name:
+2024-06-10 19:33:24 INFO  Main:51 - age:
+2024-06-10 19:33:25 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}, Person{name='sgfsdf', age=234, timestamp=null}]
+2024-06-10 19:33:25 INFO  Main:49 - name:
+2024-06-10 19:33:27 INFO  Main:51 - age:
+2024-06-10 19:33:28 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}, Person{name='sgfsdf', age=234, timestamp=null}, Person{name='sdgsdg', age=324, timestamp=null}]
+2024-06-10 19:33:28 INFO  Main:49 - name:
+2024-06-10 19:34:39 INFO  Main:30 - anna
+2024-06-10 19:34:39 INFO  Main:30 - oleg
+2024-06-10 19:34:39 INFO  Main:30 - ivan
+2024-06-10 19:34:39 INFO  Main:30 - igor
+2024-06-10 19:34:39 INFO  Main:30 - lera
+2024-06-10 19:34:39 INFO  Main:37 - 7
+2024-06-10 19:34:39 INFO  Main:37 - 6
+2024-06-10 19:34:39 INFO  Main:37 - 15
+2024-06-10 19:34:39 INFO  Main:37 - 513
+2024-06-10 19:34:39 INFO  Main:37 - 92
+2024-06-10 19:34:39 INFO  Main:37 - 141
+2024-06-10 19:37:15 INFO  Main:30 - anna
+2024-06-10 19:37:15 INFO  Main:30 - oleg
+2024-06-10 19:37:15 INFO  Main:30 - ivan
+2024-06-10 19:37:15 INFO  Main:30 - igor
+2024-06-10 19:37:15 INFO  Main:30 - lera
+2024-06-10 19:37:15 INFO  Main:37 - 7
+2024-06-10 19:37:15 INFO  Main:37 - 6
+2024-06-10 19:37:15 INFO  Main:37 - 15
+2024-06-10 19:37:15 INFO  Main:37 - 513
+2024-06-10 19:37:15 INFO  Main:37 - 92
+2024-06-10 19:37:15 INFO  Main:37 - 141
+2024-06-10 19:37:15 INFO  Main:48 - name:
+2024-06-10 19:37:18 INFO  Main:50 - age:
+2024-06-10 19:37:18 INFO  Main:48 - name:
+2024-06-10 19:37:19 INFO  Main:50 - age:
+2024-06-10 19:37:20 INFO  Main:48 - name:
+2024-06-10 19:37:20 INFO  Main:50 - age:
+2024-06-10 19:37:21 INFO  Main:48 - name:
+2024-06-10 19:37:22 INFO  Main:50 - age:
+2024-06-10 19:37:22 INFO  Main:48 - name:
+2024-06-10 19:37:23 INFO  Main:50 - age:
+2024-06-10 19:37:24 INFO  Main:60 - personList: [Person{name='dfgsd', age=324, timestamp=null}, Person{name='fgsdf', age=12, timestamp=null}, Person{name='dfgsd', age=54, timestamp=null}, Person{name='xfdg', age=65, timestamp=null}, Person{name='sgfsd', age=23, timestamp=null}]
+2024-06-10 20:05:30 INFO  Main:49 - adults: [Person{name='Ivan', age=35, timestamp=null}, Person{name='Lera', age=18, timestamp=null}, Person{name='Igor', age=24, timestamp=null}, Person{name='Lena', age=56, timestamp=null}]
