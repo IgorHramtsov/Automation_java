@@ -64549,3 +64549,466 @@
 2024-04-21 00:34:49 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
 2024-04-21 00:34:49 INFO  Main:33 - employeeList below:
 2024-04-21 00:34:49 INFO  Main:34 - [Employee{name='Igor', id=4355, salary=33500.2}, Employee{name='Ivan', id=785, salary=95300.32}, Employee{name='Oleg', id=325, salary=234250.0}, Employee{name='Anton', id=1290, salary=44700.8}]
+2024-04-21 03:02:33 INFO  Main:19 - Employee{name='Igor', id=4355, salary=0.0}
+2024-04-21 03:02:33 INFO  Main:33 - employeeList below:
+2024-04-21 03:02:33 INFO  Main:34 - [Employee{name='Igor', id=4355, salary=33500.2}, Employee{name='Ivan', id=785, salary=95300.32}, Employee{name='Oleg', id=325, salary=234250.0}, Employee{name='Anton', id=1290, salary=44700.8}]
+2024-04-21 03:02:42 INFO  Time:16 - 2024-04-21
+2024-04-21 03:02:42 INFO  Time:17 - 03:02:42.227
+2024-04-21 23:28:51 INFO  Main:11 - [Ljava.lang.reflect.Method;@76bdcbc0
+2024-04-21 23:32:04 INFO  Main:15 - [Ljava.lang.reflect.Method;@d79f6568
+2024-04-21 23:32:32 INFO  Main:15 - [public void hometask_12.Fridge.setFrezer(boolean), public final native java.lang.Class java.lang.Object.getClass(), public final void java.lang.Object.wait() throws java.lang.InterruptedException, public final void java.lang.Object.wait(long) throws java.lang.InterruptedException, public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException, public int hometask_12.ElectricAppliance.getAppliancePrice(), public final native void java.lang.Object.notifyAll(), public java.lang.String hometask_12.ElectricAppliance.getApplianceProductingCountry(), public boolean hometask_12.Fridge.isFrezer(), public int hometask_12.Fridge.calculateAppliancePrice(), public final native void java.lang.Object.notify(), public void hometask_12.ElectricAppliance.setAppliancePower(int), public void hometask_12.ElectricAppliance.setAppliancePrice(int), public int java.lang.Object.hashCode(), public boolean java.lang.Object.equals(java.lang.Object), public java.lang.String hometask_12.Fridge.toString(), public void hometask_12.ElectricAppliance.setApplianceProductingCountry(java.lang.String), public int hometask_12.ElectricAppliance.getAppliancePower(), public java.lang.String hometask_12.ElectricAppliance.getApplianceModel(), public void hometask_12.ElectricAppliance.setApplianceModel(java.lang.String), public void hometask_12.Fridge.printBonus()]
+2024-04-21 23:32:46 INFO  Main:15 - [public void hometask_12.Fridge.setFrezer(boolean), public final native java.lang.Class java.lang.Object.getClass(), public final void java.lang.Object.wait() throws java.lang.InterruptedException, public final void java.lang.Object.wait(long) throws java.lang.InterruptedException, public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException, public int hometask_12.ElectricAppliance.getAppliancePrice(), public final native void java.lang.Object.notifyAll(), public java.lang.String hometask_12.ElectricAppliance.getApplianceProductingCountry(), public boolean hometask_12.Fridge.isFrezer(), public int hometask_12.Fridge.calculateAppliancePrice(), public final native void java.lang.Object.notify(), public void hometask_12.ElectricAppliance.setAppliancePower(int), public void hometask_12.ElectricAppliance.setAppliancePrice(int), public int java.lang.Object.hashCode(), public boolean java.lang.Object.equals(java.lang.Object), public java.lang.String hometask_12.Fridge.toString(), public void hometask_12.ElectricAppliance.setApplianceProductingCountry(java.lang.String), public int hometask_12.ElectricAppliance.getAppliancePower(), public java.lang.String hometask_12.ElectricAppliance.getApplianceModel(), public void hometask_12.ElectricAppliance.setApplianceModel(java.lang.String), public void hometask_12.Fridge.printBonus()]
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.Fridge.setFrezer(boolean)
+2024-04-21 23:33:44 INFO  Main:16 - public final native java.lang.Class java.lang.Object.getClass()
+2024-04-21 23:33:44 INFO  Main:16 - public final void java.lang.Object.wait() throws java.lang.InterruptedException
+2024-04-21 23:33:44 INFO  Main:16 - public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+2024-04-21 23:33:44 INFO  Main:16 - public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+2024-04-21 23:33:44 INFO  Main:16 - public int hometask_12.ElectricAppliance.getAppliancePrice()
+2024-04-21 23:33:44 INFO  Main:16 - public final native void java.lang.Object.notifyAll()
+2024-04-21 23:33:44 INFO  Main:16 - public java.lang.String hometask_12.ElectricAppliance.getApplianceProductingCountry()
+2024-04-21 23:33:44 INFO  Main:16 - public boolean hometask_12.Fridge.isFrezer()
+2024-04-21 23:33:44 INFO  Main:16 - public int hometask_12.Fridge.calculateAppliancePrice()
+2024-04-21 23:33:44 INFO  Main:16 - public final native void java.lang.Object.notify()
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.ElectricAppliance.setAppliancePower(int)
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.ElectricAppliance.setAppliancePrice(int)
+2024-04-21 23:33:44 INFO  Main:16 - public int java.lang.Object.hashCode()
+2024-04-21 23:33:44 INFO  Main:16 - public boolean java.lang.Object.equals(java.lang.Object)
+2024-04-21 23:33:44 INFO  Main:16 - public java.lang.String hometask_12.Fridge.toString()
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.ElectricAppliance.setApplianceProductingCountry(java.lang.String)
+2024-04-21 23:33:44 INFO  Main:16 - public int hometask_12.ElectricAppliance.getAppliancePower()
+2024-04-21 23:33:44 INFO  Main:16 - public java.lang.String hometask_12.ElectricAppliance.getApplianceModel()
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.ElectricAppliance.setApplianceModel(java.lang.String)
+2024-04-21 23:33:44 INFO  Main:16 - public void hometask_12.Fridge.printBonus()
+2024-04-21 23:35:09 INFO  Main:16 - public java.lang.String hometask_12.Fridge.toString()
+2024-04-21 23:35:09 INFO  Main:16 - public boolean hometask_12.Fridge.isFrezer()
+2024-04-21 23:35:09 INFO  Main:16 - public void hometask_12.Fridge.setFrezer(boolean)
+2024-04-21 23:35:09 INFO  Main:16 - public int hometask_12.Fridge.calculateAppliancePrice()
+2024-04-21 23:35:09 INFO  Main:16 - public void hometask_12.Fridge.printBonus()
+2024-04-21 23:39:11 INFO  Main:20 - true
+2024-04-21 23:42:21 INFO  Main:20 - true
+2024-04-21 23:42:21 INFO  Main:21 - false
+2024-04-21 23:42:21 INFO  Main:22 - false
+2024-04-21 23:59:24 INFO  Main:20 - true
+2024-04-21 23:59:24 INFO  Main:21 - false
+2024-04-21 23:59:24 INFO  Main:24 - false
+2024-04-21 23:59:24 INFO  Main:25 - false
+2024-04-21 23:59:49 INFO  Main:20 - true
+2024-04-21 23:59:49 INFO  Main:21 - false
+2024-04-21 23:59:49 INFO  Main:24 - false
+2024-04-21 23:59:49 INFO  Main:25 - false
+2024-04-22 00:00:38 INFO  Main:20 - true
+2024-04-22 00:00:38 INFO  Main:21 - false
+2024-04-22 00:00:38 INFO  Main:24 - false
+2024-04-22 00:00:38 INFO  Main:25 - true
+2024-04-22 00:21:21 INFO  Main:21 - true
+2024-04-22 00:21:21 INFO  Main:22 - false
+2024-04-22 00:21:21 INFO  Main:25 - false
+2024-04-22 00:21:21 INFO  Main:26 - true
+2024-04-22 00:21:21 INFO  Main:32 - field: private boolean hometask_12.Fridge.isFrezer
+2024-04-22 00:21:48 INFO  Main:21 - true
+2024-04-22 00:21:48 INFO  Main:22 - false
+2024-04-22 00:21:48 INFO  Main:25 - false
+2024-04-22 00:21:48 INFO  Main:26 - true
+2024-04-22 00:21:48 INFO  Main:32 - field: private boolean hometask_12.Fridge.isFrezer
+2024-04-22 00:21:48 INFO  Main:33 - Fridge{isFrezer=true}
+2024-04-22 00:23:48 INFO  Main:21 - true
+2024-04-22 00:23:48 INFO  Main:22 - false
+2024-04-22 00:23:48 INFO  Main:25 - false
+2024-04-22 00:23:48 INFO  Main:26 - true
+2024-04-22 00:23:48 INFO  Main:32 - field: private boolean hometask_12.Fridge.isFrezer
+2024-04-22 00:23:48 INFO  Main:33 - Fridge{isFrezer=true}
+2024-04-22 00:24:52 INFO  Main:21 - true
+2024-04-22 00:24:52 INFO  Main:22 - false
+2024-04-22 00:24:52 INFO  Main:25 - false
+2024-04-22 00:24:52 INFO  Main:26 - true
+2024-04-22 00:24:52 INFO  Main:32 - field: private boolean hometask_12.Fridge.isFrezer
+2024-04-22 00:24:52 INFO  Main:33 - Fridge{ElectricAppliance{applianceModel='dd', applianceProductingCountry='aaa', appliancePower=10, appliancePrice=120}isFrezer=true}
+2024-04-22 00:26:58 INFO  Main:21 - true
+2024-04-22 00:26:58 INFO  Main:22 - false
+2024-04-22 00:26:58 INFO  Main:25 - false
+2024-04-22 00:26:58 INFO  Main:26 - true
+2024-04-22 00:26:58 INFO  Main:32 - field: private boolean hometask_12.Fridge.isFrezer
+2024-04-22 00:26:58 INFO  Main:33 - Fridge{ElectricAppliance{applianceModel='dd', applianceProductingCountry='aaa', appliancePower=10, appliancePrice=120}isFrezer=true}
+2024-04-22 00:26:58 INFO  Main:35 - hometask_12.Fridge
+2024-04-22 00:26:58 INFO  Main:36 - hometask_12.Fridge
+2024-04-22 00:26:58 INFO  Main:37 - Fridge
+2024-06-08 14:41:56 INFO  Main:51 - [Ljava.lang.reflect.Parameter;@97e93293
+2024-06-08 14:41:56 INFO  Main:51 - [Ljava.lang.reflect.Parameter;@116050d4
+2024-06-08 14:44:21 INFO  Main:52 - []
+2024-06-08 14:44:21 INFO  Main:52 - []
+2024-06-08 15:45:25 INFO  Time:16 - 2024-06-08
+2024-06-08 15:45:25 INFO  Time:17 - 15:45:25.901
+2024-06-08 16:52:37 INFO  Main:17 - persons class fields:
+2024-06-08 16:53:18 INFO  Main:17 - persons class fields:
+2024-06-08 16:53:18 INFO  Main:24 - name
+2024-06-08 16:53:18 INFO  Main:24 - age
+2024-06-08 16:53:18 INFO  Main:24 - height
+2024-06-08 16:53:18 INFO  Main:24 - surname
+2024-06-08 17:26:32 INFO  Main:17 - persons class fields:
+2024-06-08 17:27:01 INFO  Main:15 - persons class fields:
+2024-06-08 17:27:36 INFO  Main:15 - persons class fields:
+2024-06-08 17:28:27 INFO  Main:15 - persons class fields:
+2024-06-08 17:28:27 INFO  Main:21 - namenull
+2024-06-08 17:28:27 INFO  Main:21 - agenull
+2024-06-08 17:28:27 INFO  Main:21 - heightnull
+2024-06-08 17:28:27 INFO  Main:21 - surnamenull
+2024-06-08 17:29:04 INFO  Main:15 - persons class fields:
+2024-06-08 17:29:04 INFO  Main:21 - field: nameannotation: null
+2024-06-08 17:29:04 INFO  Main:21 - field: ageannotation: null
+2024-06-08 17:29:04 INFO  Main:21 - field: heightannotation: null
+2024-06-08 17:29:04 INFO  Main:21 - field: surnameannotation: null
+2024-06-08 17:29:20 INFO  Main:15 - persons class fields:
+2024-06-08 17:29:20 INFO  Main:21 - field: name annotation: null
+2024-06-08 17:29:20 INFO  Main:21 - field: age annotation: null
+2024-06-08 17:29:20 INFO  Main:21 - field: height annotation: null
+2024-06-08 17:29:20 INFO  Main:21 - field: surname annotation: null
+2024-06-08 17:30:40 INFO  Main:15 - persons class fields:
+2024-06-08 17:30:40 INFO  Main:21 - field: name 
+annotation: null
+2024-06-08 17:30:40 INFO  Main:21 - field: age 
+annotation: null
+2024-06-08 17:30:40 INFO  Main:21 - field: height 
+annotation: null
+2024-06-08 17:30:40 INFO  Main:21 - field: surname 
+annotation: null
+2024-06-08 17:30:54 INFO  Main:15 - persons class fields:
+2024-06-08 17:30:54 INFO  Main:21 - field: name
+annotation: null
+2024-06-08 17:30:54 INFO  Main:21 - field: age
+annotation: null
+2024-06-08 17:30:54 INFO  Main:21 - field: height
+annotation: null
+2024-06-08 17:30:54 INFO  Main:21 - field: surname
+annotation: null
+2024-06-08 17:35:48 INFO  Main:16 - fields with annotations:
+2024-06-08 17:35:48 INFO  Main:21 - field: name
+annotation: @hometask_12.task1.Annotation1(env=Annotation)
+2024-06-08 17:35:48 INFO  Main:21 - field: height
+annotation: @hometask_12.task1.Annotation1(env=Annotation)
+2024-06-08 17:36:47 INFO  Main:16 - fields with annotations:
+2024-06-08 17:36:47 INFO  Main:21 - field: name
+annotation: Annotation
+2024-06-08 17:36:47 INFO  Main:21 - field: height
+annotation: Annotation
+2024-06-08 18:16:51 INFO  Main:16 - fields with annotations:
+2024-06-08 18:16:51 INFO  Main:21 - field: name
+2024-06-08 18:16:51 INFO  Main:21 - field: height
+2024-06-08 18:21:23 INFO  Main:16 - fields with annotations:
+2024-06-08 18:21:23 INFO  Main:21 - field: name
+annotation name: Name field
+2024-06-08 18:21:23 INFO  Main:21 - field: height
+annotation name: Height field
+2024-06-09 15:37:34 INFO  Main:16 - fields with annotations:
+2024-06-09 15:37:34 INFO  Main:21 - field: name
+annotation name: Name field
+2024-06-09 15:37:34 INFO  Main:21 - field: height
+annotation name: Height field
+2024-06-09 15:48:44 INFO  Main:16 - dasd
+2024-06-09 15:48:44 INFO  Main:18 - true
+2024-06-09 15:49:23 INFO  Main:16 - dasd
+2024-06-09 15:49:23 INFO  Main:17 - double age: 
+2024-06-09 15:49:23 INFO  Main:18 - true
+2024-06-09 15:50:06 INFO  Main:16 - dasd
+2024-06-09 15:50:06 INFO  Main:17 - double age: 
+2024-06-09 15:50:06 INFO  Main:19 - is higher than 170 cm: true
+2024-06-09 15:50:06 INFO  Main:21 - agghds
+2024-06-09 15:50:06 INFO  Main:22 - double age: 
+2024-06-09 15:50:06 INFO  Main:24 - is higher than 170 cm: false
+2024-06-09 15:50:30 INFO  Main:16 - name: dasd
+2024-06-09 15:50:30 INFO  Main:17 - double age: 
+2024-06-09 15:50:30 INFO  Main:19 - is higher than 170 cm: true
+2024-06-09 15:50:30 INFO  Main:21 - name agghds
+2024-06-09 15:50:30 INFO  Main:22 - double age: 
+2024-06-09 15:50:30 INFO  Main:24 - is higher than 170 cm: false
+2024-06-09 15:54:23 INFO  Main:16 - name: dasd
+2024-06-09 15:54:23 INFO  Main:17 - double age: 
+2024-06-09 15:54:23 INFO  Main:19 - is higher than 170 cm: true
+2024-06-09 15:54:23 INFO  Main:21 - name agghds
+2024-06-09 15:54:23 INFO  Main:22 - double age: 
+2024-06-09 15:54:23 INFO  Main:24 - is higher than 170 cm: false
+2024-06-09 15:54:23 INFO  Main:29 - fields with annotations:
+2024-06-09 15:54:23 INFO  Main:34 - field: name
+annotation name: Name field
+2024-06-09 15:54:23 INFO  Main:34 - field: height
+annotation name: Height field
+2024-06-09 16:07:04 INFO  Main:18 - name: dasd
+2024-06-09 16:07:04 INFO  Main:19 - double age: 
+2024-06-09 16:07:04 INFO  Main:21 - is higher than 170 cm: true
+2024-06-09 16:07:04 INFO  Main:23 - name agghds
+2024-06-09 16:07:04 INFO  Main:24 - double age: 
+2024-06-09 16:07:04 INFO  Main:26 - is higher than 170 cm: false
+2024-06-09 16:09:26 INFO  Main:18 - name: dasd
+2024-06-09 16:09:26 INFO  Main:19 - double age: 
+2024-06-09 16:09:26 INFO  Main:21 - is higher than 170 cm: true
+2024-06-09 16:09:26 INFO  Main:23 - name agghds
+2024-06-09 16:09:26 INFO  Main:24 - double age: 
+2024-06-09 16:09:26 INFO  Main:26 - is higher than 170 cm: false
+2024-06-09 16:16:28 INFO  Main:18 - name: dasd
+2024-06-09 16:16:28 INFO  Main:19 - double age: 
+2024-06-09 16:16:28 INFO  Main:21 - is higher than 170 cm: true
+2024-06-09 16:16:28 INFO  Main:23 - name agghds
+2024-06-09 16:16:28 INFO  Main:24 - double age: 
+2024-06-09 16:16:28 INFO  Main:26 - is higher than 170 cm: false
+2024-06-09 16:25:17 INFO  Main:49 - true
+2024-06-09 16:27:36 INFO  Main:44 - true
+2024-06-09 16:27:36 INFO  Main:45 - 46
+2024-06-09 16:29:18 INFO  Main:44 - true
+2024-06-09 16:29:18 INFO  Main:45 - 46
+2024-06-09 16:29:47 INFO  Main:44 - true
+2024-06-09 16:29:47 INFO  Main:45 - 46
+2024-06-09 16:31:01 INFO  Main:46 - true
+2024-06-09 16:31:01 INFO  Main:47 - 46
+2024-06-09 16:31:01 INFO  Main:49 - false
+2024-06-09 16:31:01 INFO  Main:50 - 26
+2024-06-09 16:31:31 INFO  Main:46 - true
+2024-06-09 16:31:31 INFO  Main:47 - 46
+2024-06-09 16:31:31 INFO  Main:50 - false
+2024-06-09 16:31:31 INFO  Main:51 - 26
+2024-06-09 16:33:05 INFO  Main:46 - is higher than 170cm: true
+2024-06-09 16:33:05 INFO  Main:47 - double age: 46
+2024-06-09 16:33:05 INFO  Main:50 - is higher than 170cm: false
+2024-06-09 16:33:05 INFO  Main:51 - double age: 26
+2024-06-09 16:33:34 INFO  Main:46 - is higher than 170cm: true
+2024-06-09 16:33:34 INFO  Main:47 - double age: 46
+2024-06-09 16:33:34 INFO  Main:50 - is higher than 170cm: false
+2024-06-09 16:33:34 INFO  Main:51 - double age: 26
+2024-06-09 16:34:24 INFO  Main:21 - fields with annotations:
+2024-06-09 16:34:24 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 16:34:24 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 16:34:24 INFO  Main:59 - is higher than 170cm: true
+2024-06-09 16:34:24 INFO  Main:60 - double age: 46
+2024-06-09 16:34:24 INFO  Main:63 - is higher than 170cm: false
+2024-06-09 16:34:24 INFO  Main:64 - double age: 26
+2024-06-09 18:03:53 INFO  Main:20 - fields with annotations:
+2024-06-09 18:03:53 INFO  Main:25 - field: name
+annotation name: Name field
+2024-06-09 18:03:53 INFO  Main:25 - field: height
+annotation name: Height field
+2024-06-09 18:03:53 INFO  Main:30 - all fields:
+2024-06-09 18:03:53 INFO  Main:32 - private java.lang.String hometask_12.task1.Person.name
+2024-06-09 18:03:53 INFO  Main:32 - private int hometask_12.task1.Person.age
+2024-06-09 18:03:53 INFO  Main:32 - private int hometask_12.task1.Person.height
+2024-06-09 18:03:53 INFO  Main:32 - private java.lang.String hometask_12.task1.Person.surname
+2024-06-09 18:05:07 INFO  Main:20 - fields with annotations:
+2024-06-09 18:05:07 INFO  Main:25 - field: name
+annotation name: Name field
+2024-06-09 18:05:07 INFO  Main:25 - field: height
+annotation name: Height field
+2024-06-09 18:05:07 INFO  Main:30 - all fields:
+2024-06-09 18:05:07 INFO  Main:32 - private java.lang.String hometask_12.task1.Person.name
+2024-06-09 18:05:07 INFO  Main:32 - private int hometask_12.task1.Person.age
+2024-06-09 18:05:07 INFO  Main:32 - private int hometask_12.task1.Person.height
+2024-06-09 18:05:07 INFO  Main:32 - private java.lang.String hometask_12.task1.Person.surname
+2024-06-09 18:07:09 INFO  Main:20 - fields with annotations:
+2024-06-09 18:07:09 INFO  Main:25 - field: name
+annotation name: Name field
+2024-06-09 18:07:09 INFO  Main:25 - field: height
+annotation name: Height field
+2024-06-09 18:07:09 INFO  Main:31 - all fields:
+2024-06-09 18:07:37 INFO  Main:20 - fields with annotations:
+2024-06-09 18:07:37 INFO  Main:25 - field: name
+annotation name: Name field
+2024-06-09 18:07:37 INFO  Main:25 - field: height
+annotation name: Height field
+2024-06-09 18:07:37 INFO  Main:31 - all fields:
+2024-06-09 18:07:37 INFO  Main:35 - private java.lang.String hometask_12.task1.Person.name
+2024-06-09 18:13:29 INFO  Main:20 - fields with annotations:
+2024-06-09 18:13:29 INFO  Main:25 - field: name
+annotation name: Name field
+2024-06-09 18:13:29 INFO  Main:25 - field: height
+annotation name: Height field
+2024-06-09 18:13:29 INFO  Main:31 - all fields:
+2024-06-09 18:13:29 INFO  Main:38 - private java.lang.String hometask_12.task1.Person.name
+2024-06-09 18:18:08 INFO  Main:21 - fields with annotations:
+2024-06-09 18:18:08 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 18:18:08 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 18:18:08 INFO  Main:32 - all fields:
+2024-06-09 18:18:08 INFO  Main:46 - person with new name: Person{name='Anton', age=23, height=176, surname='asdfasdf'}
+2024-06-09 18:19:54 INFO  Main:21 - fields with annotations:
+2024-06-09 18:19:54 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 18:19:54 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 18:19:54 INFO  Main:48 - is higher than 170cm: true
+2024-06-09 18:19:54 INFO  Main:49 - double age: 46
+2024-06-09 18:19:54 INFO  Main:52 - is higher than 170cm: false
+2024-06-09 18:19:54 INFO  Main:53 - double age: 26
+2024-06-09 18:19:54 INFO  Main:60 - all fields:
+2024-06-09 18:19:54 INFO  Main:74 - person with new name: Person{name='Anton', age=23, height=176, surname='asdfasdf'}
+2024-06-09 18:31:25 INFO  Main:21 - fields with annotations:
+2024-06-09 18:31:25 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 18:31:25 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 18:31:25 INFO  Main:48 - is higher than 170cm: true
+2024-06-09 18:31:25 INFO  Main:49 - double age: 46
+2024-06-09 18:31:25 INFO  Main:52 - is higher than 170cm: false
+2024-06-09 18:31:25 INFO  Main:53 - double age: 26
+2024-06-09 18:31:25 INFO  Main:81 - person1 new name: Anton
+2024-06-09 18:31:25 INFO  Main:82 - person1 new age: 176
+2024-06-09 18:31:25 INFO  Main:84 - person with new name and age: Person{name='Anton', age=42, height=176, surname='asdfasdf'}
+2024-06-09 18:31:51 INFO  Main:21 - fields with annotations:
+2024-06-09 18:31:51 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 18:31:51 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 18:31:51 INFO  Main:48 - is higher than 170cm: true
+2024-06-09 18:31:51 INFO  Main:49 - double age: 46
+2024-06-09 18:31:51 INFO  Main:52 - is higher than 170cm: false
+2024-06-09 18:31:51 INFO  Main:53 - double age: 26
+2024-06-09 18:31:51 INFO  Main:81 - person1 new name: Anton
+2024-06-09 18:31:51 INFO  Main:82 - person1 new age: 176
+2024-06-09 18:31:51 INFO  Main:84 - person with new name and age: Person{name='Anton', age=35, height=176, surname='asdfasdf'}
+2024-06-09 18:32:04 INFO  Main:21 - fields with annotations:
+2024-06-09 18:32:04 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-09 18:32:04 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-09 18:32:04 INFO  Main:48 - is higher than 170cm: true
+2024-06-09 18:32:04 INFO  Main:49 - double age: 46
+2024-06-09 18:32:04 INFO  Main:52 - is higher than 170cm: false
+2024-06-09 18:32:04 INFO  Main:53 - double age: 26
+2024-06-09 18:32:04 INFO  Main:81 - person1 new name: Anton
+2024-06-09 18:32:04 INFO  Main:82 - person1 new age: 35
+2024-06-09 18:32:04 INFO  Main:84 - person with new name and age: Person{name='Anton', age=35, height=176, surname='asdfasdf'}
+2024-06-10 02:58:56 INFO  Main:21 - fields with annotations:
+2024-06-10 02:58:56 INFO  Main:26 - field: name
+annotation name: Name field
+2024-06-10 02:58:56 INFO  Main:26 - field: height
+annotation name: Height field
+2024-06-10 02:58:56 INFO  Main:48 - is higher than 170cm: true
+2024-06-10 02:58:56 INFO  Main:49 - double age: 46
+2024-06-10 02:58:56 INFO  Main:52 - is higher than 170cm: false
+2024-06-10 02:58:56 INFO  Main:53 - double age: 26
+2024-06-10 02:58:56 INFO  Main:81 - person1 new name: Anton
+2024-06-10 02:58:56 INFO  Main:82 - person1 new age: 35
+2024-06-10 02:58:56 INFO  Main:84 - person with new name and age: Person{name='Anton', age=35, height=176, surname='asdfasdf'}
+2024-06-10 02:59:01 INFO  Main:17 - [I@bb4aadf8
+2024-06-10 02:59:19 INFO  Main:18 - [5, 3, 23]
+2024-06-10 14:04:36 INFO  Main:23 - [Anna, Oleg, Ivan, Igor, Lera]
+2024-06-10 14:04:36 INFO  Main:24 - [Annaa, Olega, Ivana, Igora, Leraa]
+2024-06-10 14:07:34 INFO  Main:27 - Anna
+2024-06-10 14:07:34 INFO  Main:27 - Oleg
+2024-06-10 14:07:34 INFO  Main:27 - Ivan
+2024-06-10 14:07:34 INFO  Main:27 - Igor
+2024-06-10 14:07:34 INFO  Main:27 - Lera
+2024-06-10 14:07:47 INFO  Main:27 - anna
+2024-06-10 14:07:47 INFO  Main:27 - oleg
+2024-06-10 14:07:47 INFO  Main:27 - ivan
+2024-06-10 14:07:47 INFO  Main:27 - igor
+2024-06-10 14:07:47 INFO  Main:27 - lera
+2024-06-10 14:15:38 INFO  Main:27 - anna
+2024-06-10 14:15:38 INFO  Main:27 - oleg
+2024-06-10 14:15:38 INFO  Main:27 - ivan
+2024-06-10 14:15:38 INFO  Main:27 - igor
+2024-06-10 14:15:38 INFO  Main:27 - lera
+2024-06-10 14:15:38 INFO  Main:34 - 7
+2024-06-10 14:15:38 INFO  Main:34 - 6
+2024-06-10 14:15:38 INFO  Main:34 - 15
+2024-06-10 14:15:38 INFO  Main:34 - 513
+2024-06-10 14:15:38 INFO  Main:34 - 92
+2024-06-10 14:15:38 INFO  Main:34 - 141
+2024-06-10 19:31:48 INFO  Main:30 - anna
+2024-06-10 19:31:48 INFO  Main:30 - oleg
+2024-06-10 19:31:48 INFO  Main:30 - ivan
+2024-06-10 19:31:48 INFO  Main:30 - igor
+2024-06-10 19:31:48 INFO  Main:30 - lera
+2024-06-10 19:31:48 INFO  Main:37 - 7
+2024-06-10 19:31:48 INFO  Main:37 - 6
+2024-06-10 19:31:48 INFO  Main:37 - 15
+2024-06-10 19:31:48 INFO  Main:37 - 513
+2024-06-10 19:31:48 INFO  Main:37 - 92
+2024-06-10 19:31:48 INFO  Main:37 - 141
+2024-06-10 19:32:37 INFO  Main:30 - anna
+2024-06-10 19:32:37 INFO  Main:30 - oleg
+2024-06-10 19:32:37 INFO  Main:30 - ivan
+2024-06-10 19:32:37 INFO  Main:30 - igor
+2024-06-10 19:32:37 INFO  Main:30 - lera
+2024-06-10 19:32:37 INFO  Main:37 - 7
+2024-06-10 19:32:37 INFO  Main:37 - 6
+2024-06-10 19:32:37 INFO  Main:37 - 15
+2024-06-10 19:32:37 INFO  Main:37 - 513
+2024-06-10 19:32:37 INFO  Main:37 - 92
+2024-06-10 19:32:37 INFO  Main:37 - 141
+2024-06-10 19:32:37 INFO  Main:49 - name:
+2024-06-10 19:32:40 INFO  Main:51 - age:
+2024-06-10 19:32:42 INFO  Main:57 - [Person{name='asdf', age=43, timestamp=null}]
+2024-06-10 19:32:42 INFO  Main:49 - name:
+2024-06-10 19:32:42 INFO  Main:51 - age:
+2024-06-10 19:32:53 INFO  Main:30 - anna
+2024-06-10 19:32:53 INFO  Main:30 - oleg
+2024-06-10 19:32:53 INFO  Main:30 - ivan
+2024-06-10 19:32:53 INFO  Main:30 - igor
+2024-06-10 19:32:53 INFO  Main:30 - lera
+2024-06-10 19:32:53 INFO  Main:37 - 7
+2024-06-10 19:32:53 INFO  Main:37 - 6
+2024-06-10 19:32:53 INFO  Main:37 - 15
+2024-06-10 19:32:53 INFO  Main:37 - 513
+2024-06-10 19:32:53 INFO  Main:37 - 92
+2024-06-10 19:32:53 INFO  Main:37 - 141
+2024-06-10 19:32:53 INFO  Main:49 - name:
+2024-06-10 19:33:14 INFO  Main:30 - anna
+2024-06-10 19:33:14 INFO  Main:30 - oleg
+2024-06-10 19:33:14 INFO  Main:30 - ivan
+2024-06-10 19:33:14 INFO  Main:30 - igor
+2024-06-10 19:33:14 INFO  Main:30 - lera
+2024-06-10 19:33:14 INFO  Main:37 - 7
+2024-06-10 19:33:14 INFO  Main:37 - 6
+2024-06-10 19:33:14 INFO  Main:37 - 15
+2024-06-10 19:33:14 INFO  Main:37 - 513
+2024-06-10 19:33:14 INFO  Main:37 - 92
+2024-06-10 19:33:14 INFO  Main:37 - 141
+2024-06-10 19:33:14 INFO  Main:49 - name:
+2024-06-10 19:33:16 INFO  Main:51 - age:
+2024-06-10 19:33:17 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}]
+2024-06-10 19:33:17 INFO  Main:49 - name:
+2024-06-10 19:33:18 INFO  Main:51 - age:
+2024-06-10 19:33:19 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}]
+2024-06-10 19:33:19 INFO  Main:49 - name:
+2024-06-10 19:33:22 INFO  Main:51 - age:
+2024-06-10 19:33:23 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}]
+2024-06-10 19:33:23 INFO  Main:49 - name:
+2024-06-10 19:33:24 INFO  Main:51 - age:
+2024-06-10 19:33:25 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}, Person{name='sgfsdf', age=234, timestamp=null}]
+2024-06-10 19:33:25 INFO  Main:49 - name:
+2024-06-10 19:33:27 INFO  Main:51 - age:
+2024-06-10 19:33:28 INFO  Main:59 - personList: [Person{name='dfs', age=432, timestamp=null}, Person{name='gsdf', age=524, timestamp=null}, Person{name='sdfdsf', age=4323, timestamp=null}, Person{name='sgfsdf', age=234, timestamp=null}, Person{name='sdgsdg', age=324, timestamp=null}]
+2024-06-10 19:33:28 INFO  Main:49 - name:
+2024-06-10 19:34:39 INFO  Main:30 - anna
+2024-06-10 19:34:39 INFO  Main:30 - oleg
+2024-06-10 19:34:39 INFO  Main:30 - ivan
+2024-06-10 19:34:39 INFO  Main:30 - igor
+2024-06-10 19:34:39 INFO  Main:30 - lera
+2024-06-10 19:34:39 INFO  Main:37 - 7
+2024-06-10 19:34:39 INFO  Main:37 - 6
+2024-06-10 19:34:39 INFO  Main:37 - 15
+2024-06-10 19:34:39 INFO  Main:37 - 513
+2024-06-10 19:34:39 INFO  Main:37 - 92
+2024-06-10 19:34:39 INFO  Main:37 - 141
+2024-06-10 19:37:15 INFO  Main:30 - anna
+2024-06-10 19:37:15 INFO  Main:30 - oleg
+2024-06-10 19:37:15 INFO  Main:30 - ivan
+2024-06-10 19:37:15 INFO  Main:30 - igor
+2024-06-10 19:37:15 INFO  Main:30 - lera
+2024-06-10 19:37:15 INFO  Main:37 - 7
+2024-06-10 19:37:15 INFO  Main:37 - 6
+2024-06-10 19:37:15 INFO  Main:37 - 15
+2024-06-10 19:37:15 INFO  Main:37 - 513
+2024-06-10 19:37:15 INFO  Main:37 - 92
+2024-06-10 19:37:15 INFO  Main:37 - 141
+2024-06-10 19:37:15 INFO  Main:48 - name:
+2024-06-10 19:37:18 INFO  Main:50 - age:
+2024-06-10 19:37:18 INFO  Main:48 - name:
+2024-06-10 19:37:19 INFO  Main:50 - age:
+2024-06-10 19:37:20 INFO  Main:48 - name:
+2024-06-10 19:37:20 INFO  Main:50 - age:
+2024-06-10 19:37:21 INFO  Main:48 - name:
+2024-06-10 19:37:22 INFO  Main:50 - age:
+2024-06-10 19:37:22 INFO  Main:48 - name:
+2024-06-10 19:37:23 INFO  Main:50 - age:
+2024-06-10 19:37:24 INFO  Main:60 - personList: [Person{name='dfgsd', age=324, timestamp=null}, Person{name='fgsdf', age=12, timestamp=null}, Person{name='dfgsd', age=54, timestamp=null}, Person{name='xfdg', age=65, timestamp=null}, Person{name='sgfsd', age=23, timestamp=null}]
+2024-06-10 20:05:30 INFO  Main:49 - adults: [Person{name='Ivan', age=35, timestamp=null}, Person{name='Lera', age=18, timestamp=null}, Person{name='Igor', age=24, timestamp=null}, Person{name='Lena', age=56, timestamp=null}]
