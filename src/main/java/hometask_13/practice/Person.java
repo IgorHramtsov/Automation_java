@@ -1,8 +1,7 @@
-package homework_13.practice;
+package hometask_13.practice;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 public class Person {
