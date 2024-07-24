@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task1/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_13/task3/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FacadePattern/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FacadePattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FacadePattern/SubSystem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FacadePattern/SubSystem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/FirstCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/FirstProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/SecondCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/FactoryPattern/SecondProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/Singletone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/Singletone/Singletone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/StrategyPattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/StrategyPattern/FirstStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/StrategyPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/StrategyPattern/SecondStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_14/StrategyPattern/Strategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_13/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_13/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_13/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_13/practice/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_13/practice/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_13/practice/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_13/practice/Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hometsk_13" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,15 +80,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.hometask_13.task1.Main.executor": "Run",
     "Application.hometask_13.task2.Main.executor": "Run",
     "Application.hometask_13.task3.Main.executor": "Run",
+    "Application.hometask_14.FacadePattern.Main.executor": "Run",
+    "Application.hometask_14.Singletone.Main.executor": "Run",
+    "Application.hometask_14.StrategyPattern.Main.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hometsk__13",
+    "git-widget-placeholder": "hometsk__14",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Work/IdeaProjects/Automation_java/src/main/resources",
@@ -105,52 +116,13 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hometask_13.task3.Main">
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_13.practice.Streams" />
+  <component name="RunManager" selected="Application.hometask_14.Singletone.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_14.FactoryPattern.Main" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_13.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hometask_10.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_10.task2.Main" />
-      <module name="Automation_java_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_10.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hometask_13.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_13.task1.Main" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_13.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hometask_13.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometask_13.task2.Main" />
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_13.task2.*" />
+          <option name="PATTERN" value="hometask_14.FactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,13 +143,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hometask_14.FacadePattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_14.FacadePattern.Main" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_14.FacadePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hometask_14.Singletone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_14.Singletone.Main" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_14.Singletone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hometask_14.StrategyPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask_14.StrategyPattern.Main" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_14.StrategyPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hometask_14.Singletone.Main" />
+        <item itemvalue="Application.hometask_14.FacadePattern.Main" />
+        <item itemvalue="Application.hometask_14.StrategyPattern.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.hometask_13.task3.Main" />
-        <item itemvalue="Application.hometask_13.task2.Main" />
-        <item itemvalue="Application.hometask_13.task1.Main" />
-        <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.hometask_10.task2.Main" />
       </list>
     </recent_temporary>
   </component>
