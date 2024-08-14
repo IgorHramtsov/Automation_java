@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite1" parallel="classes" thread-count="3">
+    <test name = "CalculatorTest">
+        <parameter name="parameter" value="Parameter added"/>
+        <groups>
+            <run>
+                <include name="groupName1"/>
+                <include name="groupName2"/>
+                <include name="groupName3"/>
+                <include name="groupName4"/>
+            </run>
+        </groups>
+        <classes>
+            <class name = "hometask_15.CalculatorTest"/>
+            <class name="hometask_15.DataProviderTest"/>
+        </classes>
+    </test>
+</suite>
