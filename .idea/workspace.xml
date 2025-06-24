@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_15/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_15/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_15/DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 15">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/DemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_15/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_15/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometsk_14" />
+        <entry key="$PROJECT_DIR$" value="hometask_15" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,13 +79,21 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml.executor": "Run",
     "TestNG.CalculatorTest.additionTest.executor": "Run",
     "TestNG.CalculatorTest.executor": "Run",
+    "TestNG.CalculatorTest.multiplyTest.executor": "Run",
     "TestNG.CalculatorTest.substractionTest.executor": "Run",
     "TestNG.DataProviderTest.executor": "Run",
-    "git-widget-placeholder": "hometask__15",
+    "TestNG.DataProviderTest.testLogin.executor": "Run",
+    "TestNG.DemoTest.executor": "Run",
+    "TestNG.DemoTest.test.executor": "Run",
+    "TestNG.DemoTest1.executor": "Run",
+    "TestNG.DemoTest1.test.executor": "Run",
+    "TestNG.Main.test.executor": "Run",
+    "TestNG.task1.test.executor": "Run",
+    "TestNG.task2.test.executor": "Run",
+    "git-widget-placeholder": "hometask__16",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Work/IdeaProjects/Automation_java/src/main/resources",
@@ -96,11 +104,6 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription path="C:\Users\Work\IdeaProjects\Automation_java\qodana.sarif.json" reportGuid="c952d6eb-c350-4470-9e90-cd30d17aba85" reportId="Automation_java/qodana/2024-04-08" />
-    </option>
-  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources" />
@@ -109,26 +112,7 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml">
-    <configuration name="C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.task2.test">
     <configuration name="CalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
@@ -146,75 +130,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.additionTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="hometask_15" />
-      <option name="MAIN_CLASS_NAME" value="hometask_15.CalculatorTest" />
-      <option name="METHOD_NAME" value="additionTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.substractionTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="hometask_15" />
-      <option name="MAIN_CLASS_NAME" value="hometask_15.CalculatorTest" />
-      <option name="METHOD_NAME" value="substractionTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_15.*" />
+          <option name="PATTERN" value="ui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_15" />
-      <option name="MAIN_CLASS_NAME" value="hometask_15.DataProviderTest" />
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.DemoTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.DemoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometask_16" />
+      <option name="MAIN_CLASS_NAME" value="hometask_16.task1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometask_16" />
+      <option name="MAIN_CLASS_NAME" value="hometask_16.task2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -223,18 +203,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.CalculatorTest" />
-      <item itemvalue="TestNG.DataProviderTest" />
-      <item itemvalue="TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml" />
-      <item itemvalue="TestNG.CalculatorTest.additionTest" />
-      <item itemvalue="TestNG.CalculatorTest.substractionTest" />
+      <item itemvalue="TestNG.task1.test" />
+      <item itemvalue="TestNG.task2.test" />
+      <item itemvalue="TestNG.DemoTest" />
+      <item itemvalue="TestNG.DemoTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.task2.test" />
+        <item itemvalue="TestNG.task1.test" />
+        <item itemvalue="TestNG.DemoTest.test" />
+        <item itemvalue="TestNG.DemoTest" />
         <item itemvalue="TestNG.CalculatorTest" />
-        <item itemvalue="TestNG.DataProviderTest" />
-        <item itemvalue="TestNG.CalculatorTest.substractionTest" />
-        <item itemvalue="TestNG.CalculatorTest.additionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712864235804</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Homework 15">
+      <option name="closed" value="true" />
+      <created>1723645272841</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723645272841</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Homework 15">
+      <option name="closed" value="true" />
+      <created>1723645287434</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723645287434</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,6 +413,22 @@
     <MESSAGE value="Homework 6" />
     <MESSAGE value="Homework 8" />
     <MESSAGE value="Homework 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 9" />
+    <MESSAGE value="Homework 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ui/DemoTest.java</url>
+          <line>20</line>
+          <properties class="ui.DemoTest" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

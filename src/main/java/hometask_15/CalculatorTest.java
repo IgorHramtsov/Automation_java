@@ -2,6 +2,7 @@ package hometask_15;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -17,7 +18,7 @@ public class CalculatorTest {
 
     @Test(groups = {"groupName1"})
     @Parameters("parameter")
-    public void additionTest(String parameter) {
+    public void additionTest(@Optional("Default")String parameter) {
 
         int a = 5;
         int b = 9;
@@ -31,7 +32,7 @@ public class CalculatorTest {
 
     @Test(groups = {"groupName1"})
     @Parameters("parameter")
-    public void substractionTest(String parameter) {
+    public void substractionTest(@Optional("Default")String parameter) {
 
         int a = 12;
         int b = 8;
@@ -45,7 +46,7 @@ public class CalculatorTest {
 
     @Test(groups = {"groupName2"})
     @Parameters("parameter")
-    public void multiplyTest(String parameter) {
+    public void multiplyTest(@Optional("Default")String parameter) {
 
         int a = 5;
         int b = 8;
@@ -59,7 +60,7 @@ public class CalculatorTest {
 
     @Test(groups = {"groupName2"})
     @Parameters("parameter")
-    public void divideTest(String parameter) {
+    public void divideTest(@Optional("Default")String parameter) {
 
         int a = 72;
         int b = 9;
@@ -73,7 +74,7 @@ public class CalculatorTest {
 
     @Test(groups = {"groupName3"})
     @Parameters("parameter")
-    public void percentTest(String parameter) {
+    public void percentTest(@Optional("Default")String parameter) {
 
         double a = 25;
         double b = 250;
