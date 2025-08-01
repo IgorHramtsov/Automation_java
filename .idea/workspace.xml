@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 15">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/DemoTest.java" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_17/test/test_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/brain/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/brain/BrainSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/po/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/po/BrainCaralogPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/po/BrainHeaderPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/util/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_18/PO/util/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_15/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_15/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_16/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_16/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_16/task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,44 +73,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Streams.executor": "Run",
-    "Application.hometask_13.task1.Main.executor": "Run",
-    "Application.hometask_13.task2.Main.executor": "Run",
-    "Application.hometask_13.task3.Main.executor": "Run",
-    "Application.hometask_14.FacadePattern.Main.executor": "Run",
-    "Application.hometask_14.Singletone.Main.executor": "Run",
-    "Application.hometask_14.StrategyPattern.Main.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml.executor": "Run",
-    "TestNG.CalculatorTest.additionTest.executor": "Run",
-    "TestNG.CalculatorTest.executor": "Run",
-    "TestNG.CalculatorTest.multiplyTest.executor": "Run",
-    "TestNG.CalculatorTest.substractionTest.executor": "Run",
-    "TestNG.DataProviderTest.executor": "Run",
-    "TestNG.DataProviderTest.testLogin.executor": "Run",
-    "TestNG.DemoTest.executor": "Run",
-    "TestNG.DemoTest.test.executor": "Run",
-    "TestNG.DemoTest1.executor": "Run",
-    "TestNG.DemoTest1.test.executor": "Run",
-    "TestNG.Main.test.executor": "Run",
-    "TestNG.task1.test.executor": "Run",
-    "TestNG.task2.test.executor": "Run",
-    "git-widget-placeholder": "hometask__16",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Work/IdeaProjects/Automation_java/src/main/resources",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_13.task1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_13.task2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_13.task3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_14.FacadePattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_14.Singletone.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hometask_14.StrategyPattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.BrainSearchTest.verifyBrainSearch.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CalculatorTest.additionTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CalculatorTest.multiplyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CalculatorTest.substractionTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderTest.testLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest1.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Main.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.task1.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.task2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.task2.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test_task (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test_task.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test_task.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test_task.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test_task.test1.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hometask__16&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Work/IdeaProjects/Automation_java/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources" />
@@ -112,52 +126,18 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.task2.test">
-    <configuration name="CalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BrainSearchTest.verifyBrainSearch">
+    <configuration name="BrainSearchTest.verifyBrainSearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_15.*" />
+          <option name="PATTERN" value="hometask_18.PO.brain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_15" />
-      <option name="MAIN_CLASS_NAME" value="hometask_15.CalculatorTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="ui.DemoTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="ui.DemoTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="hometask_18.PO.brain" />
+      <option name="MAIN_CLASS_NAME" value="hometask_18.PO.brain.BrainSearchTest" />
+      <option name="METHOD_NAME" value="verifyBrainSearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -165,25 +145,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hometask_16" />
-      <option name="MAIN_CLASS_NAME" value="hometask_16.task1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="task2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
@@ -193,6 +155,40 @@
       </extension>
       <option name="PACKAGE_NAME" value="hometask_16" />
       <option name="MAIN_CLASS_NAME" value="hometask_16.task2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_task (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometask_17" />
+      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_task.test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometask_17" />
+      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -201,20 +197,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test_task.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask_17.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometask_17" />
+      <option name="MAIN_CLASS_NAME" value="hometask_17.test.test_task" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.CalculatorTest" />
-      <item itemvalue="TestNG.task1.test" />
-      <item itemvalue="TestNG.task2.test" />
-      <item itemvalue="TestNG.DemoTest" />
-      <item itemvalue="TestNG.DemoTest.test" />
+      <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
+      <item itemvalue="TestNG.task2" />
+      <item itemvalue="TestNG.test_task (1)" />
+      <item itemvalue="TestNG.test_task.test (1)" />
+      <item itemvalue="TestNG.test_task.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.task2.test" />
-        <item itemvalue="TestNG.task1.test" />
-        <item itemvalue="TestNG.DemoTest.test" />
-        <item itemvalue="TestNG.DemoTest" />
-        <item itemvalue="TestNG.CalculatorTest" />
+        <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
+        <item itemvalue="TestNG.test_task (1)" />
+        <item itemvalue="TestNG.test_task.test (1)" />
+        <item itemvalue="TestNG.test_task.test1" />
+        <item itemvalue="TestNG.task2" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723645287434</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Homework 16">
+      <option name="closed" value="true" />
+      <created>1750760099243</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750760099243</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +436,8 @@
     <MESSAGE value="Homework 8" />
     <MESSAGE value="Homework 9" />
     <MESSAGE value="Homework 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 15" />
+    <MESSAGE value="Homework 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

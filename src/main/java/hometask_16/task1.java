@@ -23,7 +23,6 @@ public class task1 {
 
         ChromeOptions options = new ChromeOptions();
         options.addArguments("user-data-dir=C:\\Users\\Igor\\AppData\\Local\\Google\\Chrome\\User Data\\NewTestProfile");
-        // options.addArguments("profile-directory=Default"); // Удали эту строку или замени на имя профиля, если нужно
 
         options.addArguments("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
                 "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36");

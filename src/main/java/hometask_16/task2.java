@@ -56,6 +56,6 @@ public class task2 {
         String error = driver.findElement(By.xpath("//div[@class='cdx-message__content' and contains(text(), 'Incorrect username or password')]")).getText();
         assertEquals(error, "Incorrect username or password entered. Please try again.");
 
-        //driver.quit();
+        driver.quit();
     }
 }
