@@ -65230,3 +65230,10 @@ annotation name: Height field
 2024-07-20 11:21:13 INFO  Main:75 - amountOfMen = 10
 2024-07-20 11:21:13 INFO  Main:81 - amountOfWomen = 4
 2024-07-20 11:21:13 INFO  Main:85 - People{name='not found', age=0, sex='-'}
+2025-03-10 15:02:53 INFO  Main:30 - 2
+2025-03-10 15:02:53 INFO  Main:32 - One
+2025-03-10 15:02:53 INFO  Main:37 - One last
+2025-03-10 15:02:53 INFO  Main:43 - Three
+2025-03-10 15:02:53 INFO  Main:48 - Optional[Three]
+2025-03-10 15:02:53 INFO  Main:73 - true
+2025-03-10 15:02:53 INFO  Main:78 - false
