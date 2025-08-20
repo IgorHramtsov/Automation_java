@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 17 and 18">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/GoogleSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/GoogleSearchSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/TestNGCucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/GoogleSearch.feature" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 19">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_20/BrainLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_20/TribunaLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometask_17_18" />
+        <entry key="$PROJECT_DIR$" value="hometask_19" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +54,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -67,6 +67,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.hometask_13.task1.Main.executor": "Run",
@@ -76,8 +77,11 @@
     "Application.hometask_14.Singletone.Main.executor": "Run",
     "Application.hometask_14.StrategyPattern.Main.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.Automation_java_main [io.qameta.allure:allure-maven:2.15.2:serve].executor": "Run",
+    "Maven.Automation_java_main [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BrainLoginTest.executor": "Run",
     "TestNG.BrainSearchTest.verifyBrainSearch.executor": "Run",
     "TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml.executor": "Run",
     "TestNG.CalculatorTest.additionTest.executor": "Run",
@@ -93,6 +97,8 @@
     "TestNG.GoogleSearch.test.executor": "Run",
     "TestNG.Main.test.executor": "Run",
     "TestNG.TestNGCucumberRunner.executor": "Run",
+    "TestNG.TribunaLoginTest.executor": "Run",
+    "TestNG.TribunaLoginTest.testLoginFormPresent.executor": "Run",
     "TestNG.task1.test.executor": "Run",
     "TestNG.task2.executor": "Run",
     "TestNG.task2.test.executor": "Run",
@@ -101,7 +107,7 @@
     "TestNG.test_task.test (1).executor": "Run",
     "TestNG.test_task.test.executor": "Run",
     "TestNG.test_task.test1.executor": "Run",
-    "git-widget-placeholder": "hometask__19",
+    "git-widget-placeholder": "hometask__20",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Work/IdeaProjects/Automation_java/src/main/resources",
@@ -120,19 +126,18 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGCucumberRunner">
-    <configuration name="BrainSearchTest.verifyBrainSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TribunaLoginTest">
+    <configuration name="BrainLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_18.PO.brain.*" />
+          <option name="PATTERN" value="hometask_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_18.PO.brain" />
-      <option name="MAIN_CLASS_NAME" value="hometask_18.PO.brain.BrainSearchTest" />
-      <option name="METHOD_NAME" value="verifyBrainSearch" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="hometask_20" />
+      <option name="MAIN_CLASS_NAME" value="hometask_20.BrainLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -174,16 +179,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_task (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TribunaLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_17.*" />
+          <option name="PATTERN" value="hometask_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_17" />
-      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
+      <option name="PACKAGE_NAME" value="hometask_20" />
+      <option name="MAIN_CLASS_NAME" value="hometask_20.TribunaLoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -191,17 +196,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_task.test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TribunaLoginTest.testLoginFormPresent" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_17.*" />
+          <option name="PATTERN" value="hometask_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_17" />
-      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="hometask_20" />
+      <option name="MAIN_CLASS_NAME" value="hometask_20.TribunaLoginTest" />
+      <option name="METHOD_NAME" value="testLoginFormPresent" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -210,19 +215,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.TribunaLoginTest" />
+      <item itemvalue="TestNG.TribunaLoginTest.testLoginFormPresent" />
+      <item itemvalue="TestNG.BrainLoginTest" />
       <item itemvalue="TestNG.GoogleSearch.test" />
       <item itemvalue="TestNG.TestNGCucumberRunner" />
-      <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
-      <item itemvalue="TestNG.test_task (1)" />
-      <item itemvalue="TestNG.test_task.test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TribunaLoginTest" />
+        <item itemvalue="TestNG.TribunaLoginTest.testLoginFormPresent" />
+        <item itemvalue="TestNG.BrainLoginTest" />
         <item itemvalue="TestNG.TestNGCucumberRunner" />
         <item itemvalue="TestNG.GoogleSearch.test" />
-        <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
-        <item itemvalue="TestNG.test_task (1)" />
-        <item itemvalue="TestNG.test_task.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -407,8 +412,29 @@
       <option name="project" value="LOCAL" />
       <updated>1754042239233</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Homework 19">
+      <option name="closed" value="true" />
+      <created>1754405479583</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754405479583</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Homework 19">
+      <option name="closed" value="true" />
+      <created>1754405526569</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754405526569</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.testng:testng" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -440,7 +466,8 @@
     <MESSAGE value="Homework 15" />
     <MESSAGE value="Homework 16" />
     <MESSAGE value="Homework 17 and 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 17 and 18" />
+    <MESSAGE value="Homework 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
