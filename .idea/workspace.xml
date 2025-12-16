@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 17 and 18">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/GoogleSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/GoogleSearchSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hometask_19/TestNGCucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/GoogleSearch.feature" afterDir="false" />
+    <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 20">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_20/TribunaLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_20/TribunaLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_9/task2/MyEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task2/MyEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometask_17_18" />
+        <entry key="$PROJECT_DIR$" value="hometask_19" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,19 +56,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ISdYizUsBL1RNZF3WkjLW99Qv4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.hometask_13.task1.Main.executor": "Run",
@@ -76,8 +81,14 @@
     "Application.hometask_14.Singletone.Main.executor": "Run",
     "Application.hometask_14.StrategyPattern.Main.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.Automation_java_main [clean].executor": "Run",
+    "Maven.Automation_java_main [compile].executor": "Run",
+    "Maven.Automation_java_main [io.qameta.allure:allure-maven:2.15.2:serve].executor": "Run",
+    "Maven.Automation_java_main [test].executor": "Run",
+    "Maven.Automation_java_main [validate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BrainLoginTest.executor": "Run",
     "TestNG.BrainSearchTest.verifyBrainSearch.executor": "Run",
     "TestNG.C:/Users/Igor/IdeaProjects/Automation_java/src/main/resources/testng.xml.executor": "Run",
     "TestNG.CalculatorTest.additionTest.executor": "Run",
@@ -92,7 +103,22 @@
     "TestNG.DemoTest1.test.executor": "Run",
     "TestNG.GoogleSearch.test.executor": "Run",
     "TestNG.Main.test.executor": "Run",
+    "TestNG.ReqresTest.checkAvatarAndIdTest.executor": "Run",
+    "TestNG.ReqresTest.createUserTest.executor": "Run",
+    "TestNG.ReqresTest.deleteUserTest.executor": "Run",
+    "TestNG.ReqresTest.loginUnsuccessTest.executor": "Run",
+    "TestNG.ReqresTest.sortedYearsTest.executor": "Run",
+    "TestNG.ReqresTest.successRegTest.executor": "Run",
+    "TestNG.ReqresTest.timeTest.executor": "Run",
+    "TestNG.ReqresTest.unSuccessRegTest.executor": "Run",
+    "TestNG.ReqresTest.userNotFound.executor": "Run",
+    "TestNG.ReqresTests.executor": "Run",
+    "TestNG.ReqresTests.getUsersTest.executor": "Run",
+    "TestNG.Test.executor": "Run",
     "TestNG.TestNGCucumberRunner.executor": "Run",
+    "TestNG.TribunaLoginTest.executor": "Run",
+    "TestNG.TribunaLoginTest.testLoginFormPresent.executor": "Run",
+    "TestNG.apiTests.getUsers_page2_shouldReturnExpectedUsers.executor": "Run",
     "TestNG.task1.test.executor": "Run",
     "TestNG.task2.executor": "Run",
     "TestNG.task2.test.executor": "Run",
@@ -101,10 +127,10 @@
     "TestNG.test_task.test (1).executor": "Run",
     "TestNG.test_task.test.executor": "Run",
     "TestNG.test_task.test1.executor": "Run",
-    "git-widget-placeholder": "hometask__19",
+    "git-widget-placeholder": "hometask__20",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Work/IdeaProjects/Automation_java/src/main/resources",
+    "last_opened_file_path": "C:/Projects/REST-library-API",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -120,18 +146,18 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGCucumberRunner">
-    <configuration name="BrainSearchTest.verifyBrainSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ReqresTests.getUsersTest">
+    <configuration name="ReqresTest.createUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_18.PO.brain.*" />
+          <option name="PATTERN" value="API_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_18.PO.brain" />
-      <option name="MAIN_CLASS_NAME" value="hometask_18.PO.brain.BrainSearchTest" />
-      <option name="METHOD_NAME" value="verifyBrainSearch" />
+      <option name="PACKAGE_NAME" value="API_tests" />
+      <option name="MAIN_CLASS_NAME" value="API_tests.ReqresTest" />
+      <option name="METHOD_NAME" value="createUserTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,17 +165,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleSearch.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReqresTest.loginUnsuccessTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_19.*" />
+          <option name="PATTERN" value="API_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_19" />
-      <option name="MAIN_CLASS_NAME" value="hometask_19.GoogleSearch" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="API_tests" />
+      <option name="MAIN_CLASS_NAME" value="API_tests.ReqresTest" />
+      <option name="METHOD_NAME" value="loginUnsuccessTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,16 +183,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGCucumberRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReqresTests.getUsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_19.*" />
+          <option name="PATTERN" value="API_Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_19" />
-      <option name="MAIN_CLASS_NAME" value="hometask_19.TestNGCucumberRunner" />
+      <option name="PACKAGE_NAME" value="API_Test" />
+      <option name="MAIN_CLASS_NAME" value="API_Test.ReqresTests" />
+      <option name="METHOD_NAME" value="getUsersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -174,34 +218,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_task (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="apiTests.getUsers_page2_shouldReturnExpectedUsers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hometask_17.*" />
+          <option name="PATTERN" value="reqresIn.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hometask_17" />
-      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test_task.test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometask_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hometask_17" />
-      <option name="MAIN_CLASS_NAME" value="hometask_17.test_task" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="reqresIn.tests" />
+      <option name="MAIN_CLASS_NAME" value="reqresIn.tests.apiTests" />
+      <option name="METHOD_NAME" value="getUsers_page2_shouldReturnExpectedUsers" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -210,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.GoogleSearch.test" />
-      <item itemvalue="TestNG.TestNGCucumberRunner" />
-      <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
-      <item itemvalue="TestNG.test_task (1)" />
-      <item itemvalue="TestNG.test_task.test (1)" />
+      <item itemvalue="TestNG.ReqresTests.getUsersTest" />
+      <item itemvalue="TestNG.apiTests.getUsers_page2_shouldReturnExpectedUsers" />
+      <item itemvalue="TestNG.ReqresTest.createUserTest" />
+      <item itemvalue="TestNG.ReqresTest.loginUnsuccessTest" />
+      <item itemvalue="TestNG.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNGCucumberRunner" />
-        <item itemvalue="TestNG.GoogleSearch.test" />
-        <item itemvalue="TestNG.BrainSearchTest.verifyBrainSearch" />
-        <item itemvalue="TestNG.test_task (1)" />
-        <item itemvalue="TestNG.test_task.test (1)" />
+        <item itemvalue="TestNG.ReqresTests.getUsersTest" />
+        <item itemvalue="TestNG.apiTests.getUsers_page2_shouldReturnExpectedUsers" />
+        <item itemvalue="TestNG.ReqresTest.loginUnsuccessTest" />
+        <item itemvalue="TestNG.Test" />
+        <item itemvalue="TestNG.ReqresTest.createUserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -407,8 +434,45 @@
       <option name="project" value="LOCAL" />
       <updated>1754042239233</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Homework 19">
+      <option name="closed" value="true" />
+      <created>1754405479583</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754405479583</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Homework 19">
+      <option name="closed" value="true" />
+      <created>1754405526569</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754405526569</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Homework 20">
+      <option name="closed" value="true" />
+      <created>1755692326628</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1755692326628</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Homework 20">
+      <option name="closed" value="true" />
+      <created>1755692336207</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1755692336207</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.testng:testng" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -440,7 +504,9 @@
     <MESSAGE value="Homework 15" />
     <MESSAGE value="Homework 16" />
     <MESSAGE value="Homework 17 and 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 17 and 18" />
+    <MESSAGE value="Homework 19" />
+    <MESSAGE value="Homework 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

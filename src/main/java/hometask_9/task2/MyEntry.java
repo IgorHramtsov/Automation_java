@@ -54,7 +54,7 @@ public class MyEntry <K, V> {
     }
 
     public static <K, V> void listValues (List<V> listOfValues) {
-        System.out.println("List of valuses: " + listOfValues);
+        System.out.println("List of values: " + listOfValues);
     }
 
     public static <K, V> void allMap (Map<K, V> map) {

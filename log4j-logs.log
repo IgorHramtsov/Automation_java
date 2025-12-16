@@ -65237,3 +65237,76 @@ annotation name: Height field
 2025-03-10 15:02:53 INFO  Main:48 - Optional[Three]
 2025-03-10 15:02:53 INFO  Main:73 - true
 2025-03-10 15:02:53 INFO  Main:78 - false
+2025-08-19 17:47:12 INFO  BrainLoginTest:31 - Initializing WebDriver
+2025-08-19 17:47:17 INFO  BrainLoginTest:43 - Opening brain login page
+2025-08-19 17:47:18 INFO  BrainLoginTest:46 - Verifying login form elements
+2025-08-19 17:47:28 INFO  BrainLoginTest:62 - Closing WebDriver
+2025-08-19 17:48:37 INFO  BrainLoginTest:31 - Initializing WebDriver
+2025-08-19 17:48:39 INFO  BrainLoginTest:43 - Opening brain login page
+2025-08-19 17:48:41 INFO  BrainLoginTest:46 - Verifying login form elements
+2025-08-19 17:48:51 INFO  BrainLoginTest:62 - Closing WebDriver
+2025-08-20 13:17:23 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:17:26 INFO  TribunaLoginTest:44 - Opening brain login page
+2025-08-20 13:17:30 INFO  TribunaLoginTest:47 - Check login button
+2025-08-20 13:17:31 INFO  TribunaLoginTest:51 - Enter Credentials
+2025-08-20 13:17:31 INFO  TribunaLoginTest:80 - Closing WebDriver
+2025-08-20 13:31:06 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:31:08 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:31:11 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:31:12 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:31:13 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:31:14 INFO  TribunaLoginTest:82 - Closing WebDriver
+2025-08-20 13:40:51 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:40:53 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:40:56 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:40:57 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:40:58 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:41:00 INFO  TribunaLoginTest:83 - Closing WebDriver
+2025-08-20 13:42:20 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:42:21 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:42:25 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:42:26 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:42:27 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:42:28 INFO  TribunaLoginTest:83 - Closing WebDriver
+2025-08-20 13:42:53 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:42:54 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:42:58 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:42:58 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:43:00 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:46:18 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:46:20 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:46:23 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:46:24 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:47:53 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:47:55 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:47:59 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:48:00 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:48:24 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:48:26 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:48:29 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:48:30 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:48:31 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:50:27 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:50:29 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:50:33 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:50:33 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:50:35 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:50:35 INFO  TribunaLoginTest:67 - Check profile
+2025-08-20 13:51:04 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:51:05 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:51:09 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:51:09 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:51:10 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:51:11 INFO  TribunaLoginTest:67 - Check profile
+2025-08-20 13:52:37 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 13:52:39 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 13:52:43 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 13:52:44 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 13:52:45 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 13:52:45 INFO  TribunaLoginTest:84 - Closing WebDriver
+2025-08-20 15:32:25 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 15:32:27 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 15:32:31 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 15:32:31 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 15:32:33 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 15:32:33 INFO  TribunaLoginTest:84 - Closing WebDriver
