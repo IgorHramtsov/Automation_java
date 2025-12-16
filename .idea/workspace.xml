@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4cf987c-126d-4647-9a0b-01f3fc993209" name="Changes" comment="Homework 20">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_20/TribunaLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_20/TribunaLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hometask_9/task2/MyEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hometask_9/task2/MyEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +73,7 @@
     "Application.hometask_14.FacadePattern.Main.executor": "Run",
     "Application.hometask_14.Singletone.Main.executor": "Run",
     "Application.hometask_14.StrategyPattern.Main.executor": "Run",
+    "Application.mainLambda.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "Maven.Automation_java_main [clean].executor": "Run",
     "Maven.Automation_java_main [compile].executor": "Run",
@@ -127,7 +121,7 @@
     "TestNG.test_task.test (1).executor": "Run",
     "TestNG.test_task.test.executor": "Run",
     "TestNG.test_task.test1.executor": "Run",
-    "git-widget-placeholder": "hometask__20",
+    "git-widget-placeholder": "streamsAndLambdaPractice",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Projects/REST-library-API",
@@ -146,21 +140,29 @@
       <recent name="C:\Users\Work\IdeaProjects\Automation_java\src\main\resources\hometask10" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ReqresTests.getUsersTest">
-    <configuration name="ReqresTest.createUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.mainLambda">
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamsAndLambda.Streams" />
       <module name="Automation_java_nain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="API_tests.*" />
+          <option name="PATTERN" value="streamsAndLambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="API_tests" />
-      <option name="MAIN_CLASS_NAME" value="API_tests.ReqresTest" />
-      <option name="METHOD_NAME" value="createUserTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamsAndLambda.mainLambda" />
+      <module name="Automation_java_nain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamsAndLambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -201,23 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_java_nain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="apiTests.getUsers_page2_shouldReturnExpectedUsers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_java_nain" />
       <extension name="coverage">
@@ -237,19 +222,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Streams" />
+      <item itemvalue="Application.mainLambda" />
       <item itemvalue="TestNG.ReqresTests.getUsersTest" />
       <item itemvalue="TestNG.apiTests.getUsers_page2_shouldReturnExpectedUsers" />
-      <item itemvalue="TestNG.ReqresTest.createUserTest" />
       <item itemvalue="TestNG.ReqresTest.loginUnsuccessTest" />
-      <item itemvalue="TestNG.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mainLambda" />
+        <item itemvalue="Application.Streams" />
         <item itemvalue="TestNG.ReqresTests.getUsersTest" />
         <item itemvalue="TestNG.apiTests.getUsers_page2_shouldReturnExpectedUsers" />
         <item itemvalue="TestNG.ReqresTest.loginUnsuccessTest" />
-        <item itemvalue="TestNG.Test" />
-        <item itemvalue="TestNG.ReqresTest.createUserTest" />
       </list>
     </recent_temporary>
   </component>
