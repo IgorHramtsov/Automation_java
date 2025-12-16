@@ -65304,3 +65304,9 @@ annotation name: Height field
 2025-08-20 13:52:44 INFO  TribunaLoginTest:53 - Enter Credentials
 2025-08-20 13:52:45 INFO  TribunaLoginTest:60 - Click submit button
 2025-08-20 13:52:45 INFO  TribunaLoginTest:84 - Closing WebDriver
+2025-08-20 15:32:25 INFO  TribunaLoginTest:31 - Initializing WebDriver
+2025-08-20 15:32:27 INFO  TribunaLoginTest:46 - Opening Tribuna login page
+2025-08-20 15:32:31 INFO  TribunaLoginTest:49 - Check login button
+2025-08-20 15:32:31 INFO  TribunaLoginTest:53 - Enter Credentials
+2025-08-20 15:32:33 INFO  TribunaLoginTest:60 - Click submit button
+2025-08-20 15:32:33 INFO  TribunaLoginTest:84 - Closing WebDriver

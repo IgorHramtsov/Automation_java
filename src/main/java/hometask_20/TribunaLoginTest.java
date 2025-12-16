@@ -74,7 +74,7 @@ public class TribunaLoginTest {
         WebElement myProfileButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[normalize-space(text())='Мій профіль']")));
         myProfileButton.click();
 
-        WebElement profileName = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[normalize-space(text())='vitya_LEON']")));
+        WebElement profileName = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[normalize-space(text())='']")));
         String profileNameText = profileName.getText();
         logger.info(profileNameText + "profile name"); */
 
